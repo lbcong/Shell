@@ -1,235 +1,18 @@
-94.226.190.162|admin|admin||
-132.255.212.191|admin|admin||
-117.255.211.21|admin|admin||
-114.32.35.137|user|user||
-182.75.225.82|ftp|ftp||
-188.248.155.88|user|user||
-94.56.249.134|admin|admin||
-43.254.118.2|admin|admin||usage: ca_shell [-b] [-r]
-   -b: send command in batch mode.
-   -r: command invoked from RPC.
+103.229.80.97|admin|12345|Unknown (Unknown)|bad command name sudo (line 1 column 1)
 
-188.248.160.96|user|user||
-188.248.140.176|user|user||
-119.210.131.222|sshd|sshd||
-117.253.234.15|sshd|sshd||
-110.38.218.27|admin|admin||
-188.248.143.194|user|user||
-88.116.246.106|thomas|thomas||
-212.90.214.198|guest|guest||
-188.248.181.166|user|user||
-200.40.209.214|admin|default||
-211.246.253.214|admin|admin||
-77.39.11.244|admin|default||
-134.19.230.17|root|admin||
-183.126.93.227|sshd|sshd||Linux version 2.6.32.27-Cavium-Octeon (root@codegeass-virtual-machine) (gcc version 4.3.3 (Cavium Networks Version: 2_0_0 build 95) ) #24 SMP PREEMPT Tue Nov 13 15:34:35 KST 2012
-Linux 2.6.32.27-Cavium-Octeon mips64
+103.206.128.200|user1|123456|Unknown (Unknown)|bad command name sudo (line 1 column 1)
 
-5.178.182.229|root|admin||
-14.64.209.229|sshd|sshd||Linux version 2.6.32.27-Cavium-Octeon (root@codegeass-virtual-machine) (gcc version 4.3.3 (Cavium Networks Version: 2_0_0 build 95) ) #24 SMP PREEMPT Tue Nov 13 15:34:35 KST 2012
-Linux 2.6.32.27-Cavium-Octeon mips64
+97.74.196.102|ftpuser|password|United States (US)|
+182.171.78.24|www|www|Japan (JP)|This account is currently not available.
 
-188.248.152.245|user|user||
-140.114.39.1|helpdesk|helpdesk||
-175.231.171.177|sshd|sshd||Linux version 2.6.32.27-Cavium-Octeon (root@codegeass-virtual-machine) (gcc version 4.3.3 (Cavium Networks Version: 2_0_0 build 95) ) #24 SMP PREEMPT Tue Nov 13 15:34:35 KST 2012
-Linux 2.6.32.27-Cavium-Octeon mips64
+177.75.112.23|admin|admin|Brazil (BR)|bad command name sudo (line 1 column 1)
 
-118.140.144.62|test|test||
-94.141.61.100|user|user||
-188.248.147.84|user|user||
-188.248.139.188|user|user||
-80.14.213.123|pat|pat||
-123.193.230.157|admin|password||
-197.220.8.100|admin|admin||
-123.141.38.137|tomcat|tomcat||This account is currently not available.
+103.43.4.188|user1|123456|Unknown (Unknown)|bad command name sudo (line 1 column 1)
 
-188.248.167.49|user|user||
-182.71.134.122|root|root||
-109.173.56.74|admin|admin||bad command name cat (line 1 column 1)
-
-77.37.223.70|root|12345||
-37.192.22.12|admin|admin||
-131.255.225.138|admin|admin||
-83.146.113.31|test|qwerty||This account is currently not available.
-
-200.113.196.88|admin|admin||
-145.255.26.238|admin|12345||
-78.224.227.126|admin|password||
-188.248.163.143|user|user||
-182.76.45.198|root|root||Linux version 2.6.20.6 (winston@localhost.localdomain) (gcc version 4.3.2 (GCC) ) #283 Tue Jan 27 16:22:48 CST 2015
-Linux 2.6.20.6 ppc
-
-188.248.133.112|user|user||
-188.248.147.152|user|user||
-188.248.165.138|user|user||
-77.237.236.39|admin|default||
-91.143.38.162|ftp|ftpuser||This account is currently not available.
-
-188.248.136.114|user|user||
-103.36.11.83|admin|123456||bad command name cat (line 1 column 1)
-
-188.248.162.91|user|user||
-182.75.62.241|root|root||Linux version 2.6.20.6 (winston@fedora13) (gcc version 4.2.3) #38 Fri May 20 11:35:04 CST 2016
-Linux 2.6.20.6 ppc
-
-179.40.83.51|admin|admin||
-219.65.55.82|root|root123||
-31.182.55.130|test|test||
-78.7.44.54|sshd|sshd||
-94.40.99.94|user|1234||bad command name cat (line 1 column 1)
-
-85.84.99.168|root|root||
-188.248.179.205|admin|admin||
-103.194.91.9|user1|123456||bad command name cat (line 1 column 1)
-
-188.248.153.254|user|user||
-188.248.187.132|user|user||
-190.195.255.142|admin|admin||
-61.91.180.226|root|admin||
-188.248.184.82|user|user||
-218.146.86.246|toor|1234||
-117.253.210.105|admin|admin||
-188.248.166.107|user|user||
-206.214.13.103|support|support||
-103.206.128.200|user1|123456||
-188.248.168.233|user|user||
-211.196.252.33|toor|1234||
-117.243.198.119|admin|admin||
-175.143.68.54|admin|admin||
-81.164.231.205|ubnt|ubnt||
-85.233.153.140|support|support||
-76.76.187.68|admin|admin||
-188.248.181.225|user|user||
-110.36.32.98|support|support||
-104.250.145.90|test|test||This account is currently not available.
-
-188.248.178.59|admin|admin||
-212.164.208.76|user|user||
-188.248.161.254|user|user||
-188.248.165.124|user|user||
-182.73.153.134|root|root||
-94.231.118.53|user|user||Linux version 2.6.30.9 (jenkins@build) (gcc version 3.4.6-1.3.6) #1 Thu Jan 21 16:23:32 NOVT 2016
-
-210.211.99.203|admin|123456||This account is currently not available.
-
-118.163.58.117|default|default||please use serical login
-
-138.118.6.39|admin|admin||
-183.114.105.121|sshd|sshd||Linux version 2.6.32.27-Cavium-Octeon (root@codegeass-virtual-machine) (gcc version 4.3.3 (Cavium Networks Version: 2_0_0 build 95) ) #24 SMP PREEMPT Tue Nov 13 15:34:35 KST 2012
-Linux 2.6.32.27-Cavium-Octeon mips64
-
-178.140.30.46|admin|12345||
-194.135.114.100|admin|default||
-114.32.181.215|user|user||
-188.248.150.150|user|user||
-188.248.167.60|user|user||
-119.252.174.181|cisco|cisco||This service allows sftp connections only.
-
-122.166.237.19|apache|apache||This account is currently not available.
-
-115.248.110.253|sync|click1||
-203.194.109.98|support|support||bad command name cat (line 1 column 1)
-
-134.19.230.131|root|admin||
-41.169.89.116|support|support||
-182.190.3.213|admin|admin||
-
-
-Exceeding Max Cli Sessions !Connection closed by foreign host
-
-58.142.227.34|admin|admin||
-118.200.151.182|user|user||
-118.69.60.253|admin|password||
-64.132.45.236|admin|default||
-188.248.149.204|user|user||
-188.248.148.86|user|user||
-188.248.139.25|user|user||
-117.245.42.196|admin|admin||
-188.248.169.228|user|user||
-190.102.20.111|admin|admin||
-188.248.145.195|user|user||
-212.36.223.82|test|test123||
-202.75.248.237|ftp|ftp123||
-91.229.99.5|user1|user1||
-188.248.148.8|user|user||
-109.173.49.248|root|12345||
-61.221.132.212|test|test||Please run the program in an appropriate mode.
-Usage: 
-  -h, --help              print out this help message
-  -a, --acquire           acquisition mode with display
-  -H, --headless          acquisition mode without display (Headless)
-  -v, --vanilli           vanilli (calibration programme)
-  -c, --calibrate         calibration mode
-  -t, --test              run in test mode
-  -i, --ipd               iPD mode
-  -M, --automap-count     Advanced users only
-  -I, --ipd-threshold     Advanced users only
-  -g, --precedence-gain   Set 6-bit (0-63) precedence gain
-  -V, --version           version information
-Cleaning up..ok.
-
-95.167.178.45|user|user||
-182.73.42.233|root|root||
-117.253.104.172|admin|admin||
-117.243.180.58|admin|admin||
-186.215.197.53|admin|admin||
-117.211.151.41|admin|admin||
-196.41.40.6|admin|admin||
-93.188.47.219|user|user||
-206.214.4.137|admin|admin||
-200.61.190.65|ftpuser|asteriskftp||This account is currently not available.
-
-188.248.142.247|user|user||
-188.248.190.101|user|user||
-118.69.109.142|ubnt|ubnt||Linux version 3.10.20-UBNT (root@ubnt-builder2) (gcc version 4.7.0 (Cavium Inc. Version: SDK_3_1_0_p2 build 34) ) #1 SMP Fri Dec 2 02:30:08 PST 2016
-Linux 3.10.20-UBNT mips64
-
-188.248.186.45|user|user||
-12.16.49.50|admin|default||
-174.116.186.150|ubnt|ubnt||Linux version 3.10.20-UBNT (root@ubnt-builder2) (gcc version 4.7.0 (Cavium Inc. Version: SDK_3_1_0_p2 build 34) ) #1 SMP Fri Jul 29 16:51:50 PDT 2016
-Linux 3.10.20-UBNT mips64
-
-117.245.40.243|sshd|sshd||
-206.214.8.149|admin|admin||
-197.231.143.76|admin|admin||
-188.248.143.174|user|user||
-188.248.178.38|user|user||
-188.248.183.165|user|user||
-41.202.172.97|support|support||
-188.248.137.250|user|user||
-200.29.187.138|admin|default||Failed to set Terminal length
-
-188.248.176.221|user|user||
-188.248.172.235|user|user||
-1.234.82.100|mysql|mysql||This account is currently not available.
-
-188.248.129.77|user|user||
-222.103.244.105|user|user||Linux version 2.6.32-rc5 (kito@KEN) (gcc version 4.3.2 (GCC) ) #3 PREEMPT Wed Dec 28 18:27:58 KST 2011
-Linux 2.6.32-rc5 ppc
-
-41.75.73.168|admin|admin||
-210.204.166.9|admin|password||
-76.76.187.223|admin|admin||
-190.13.106.44|admin|admin||
-103.229.80.97|admin|12345||bad command name cat (line 1 column 1)
-
-188.32.28.60|root|12345||
-183.83.132.30|admin|1234||
-190.248.140.18|admin|admin||bad command name cat (line 1 column 1)
-
-188.9.145.138|ftpuser|asteriskftp||This account is currently not available.
-
-188.248.190.41|user|user||
-124.137.13.162|toor|1234||
-14.64.39.148|sshd|sshd||
-188.248.143.132|user|user||
-218.208.44.67|admin|admin||UNIX shell commands cannot be executed using this account.
-
-212.128.70.66|ftp|1234||
-188.248.189.40|user|user||
-188.248.176.60|user|user||
-40.135.156.42|bob|bob||
-Sun May 28 11:55:16 CDT 2017
+92.222.218.38|git|git|France (FR)|
+77.94.107.17|user|user|Russian Federation (RU)|
+40.135.156.42|bob|bob|United States (US)|
+Wed May 31 03:42:49 CDT 2017
 
 
 Profitool revision 6.1.11 is starting up ...
@@ -245,259 +28,115 @@ Profitool revision 6.1.11 is starting up ...
 >>>>>>> 1.1.1.1.2.11
 =====================================================
 
-190.104.232.204|admin|admin||
-188.248.149.165|user|user||
-117.255.208.146|admin|admin||
-188.248.151.16|user|user||
-188.248.176.16|user|user||
-186.225.255.107|admin|admin||
-188.248.146.177|user|user||
-117.253.108.219|admin|admin||
-117.245.43.0|sshd|sshd||
-218.166.91.112|user|user||
-111.240.189.206|user|user||
-111.255.82.38|user|user||
-168.121.55.185|admin|admin||
-111.250.19.149|support|support||
-122.118.136.198|user|user||
-125.231.114.1|user|user||
-188.248.183.165|user|user||
-64.91.72.106|monitor|monitor||
-188.16.113.126|admin|admin||
-111.240.145.207|user|user||
-37.113.65.220|admin|admin||
-188.248.146.47|admin|admin||
-188.248.161.26|user|user||
-187.103.63.120|admin|admin||
-188.18.75.137|root|admin||
-36.228.105.91|user|user||
-1.163.154.179|user|user||
-220.142.175.143|user|user||
-36.229.206.82|user|user||
-1.169.8.129|user|user||
-118.131.118.98|admin|admin||
-114.37.244.85|user|user||
-114.25.235.95|user|user||
-1.172.103.149|user|user||
-111.248.222.181|user|user||
-36.231.212.17|user|user||
-188.248.166.107|user|user||
-77.94.107.17|user|user||Linux version 2.6.33.5 (jenkins@build) (gcc version 4.1.2) #15 Thu Dec 15 17:15:09 NOVT 2016
-Linux 2.6.33.5 armv6l
+218.208.44.67|admin|admin|Malaysia (MY)|UNIX shell commands cannot be executed using this account.
 
-92.222.218.38|git|git||
-220.142.165.207|user|user||
-103.207.10.162|support|support||
-190.104.232.204|admin|admin||
-219.85.165.42|user|user||
-114.36.40.111|user|user||
-124.9.163.116|user|user||
-190.52.170.210|admin|1||bad command name cat (line 1 column 1)
+188.9.145.138|ftpuser|asteriskftp|Italy (IT)|This account is currently not available.
 
-116.87.227.204|ubnt|ubnt||
-202.126.94.52|support|support||
-36.225.96.182|user|user||
-114.44.127.180|user|user||
-114.26.154.198|user|user||
-115.94.73.3|mysql|mysql||
-188.248.136.155|user|user||
-118.170.57.246|user|user||
-188.248.174.34|root|root||
-118.166.26.176|user|user||
-111.240.220.48|user|user||
-41.76.123.219|admin|admin||
-114.38.65.66|user|user||
-110.77.241.78|root|admin||
-220.143.61.163|user|user||
-131.108.103.80|admin|admin||
-114.36.134.188|user|user||
-188.248.172.63|user|user||
-122.118.28.110|user|user||
-38.122.226.3|admin|default||
-110.36.37.211|support|support||
-1.172.119.147|user|user||
-1.169.93.22|user|user||
-188.248.138.150|user|user||
-122.118.35.63|user|user||
-166.142.139.127|guest|guest||
-88.210.126.43|admin|admin||
-124.12.193.163|user|user||
-180.177.84.128|admin|password||
-1.174.136.214|user|user||
-114.37.180.95|user|user||
-188.248.146.243|user|user||
-188.248.181.0|user|user||
-5.141.251.18|admin|admin||
-36.225.78.170|user|user||
-111.242.64.99|user|user||
-201.20.74.255|root|admin||
-1.170.146.79|user|user||
-1.173.165.123|user|user||
-111.253.140.30|user|user||
-36.224.187.198|user|user||
-114.26.167.186|user|user||
-191.103.115.74|admin|admin||
-94.50.245.164|root|admin||
-1.175.217.158|user|user||
-1.161.82.22|user|user||
-188.248.172.216|user|user||
-114.44.216.65|user|user||
-111.254.55.118|user|user||
-66.220.249.34|support|support||
-110.36.42.163|admin|admin||
-61.231.30.69|user|user||
-46.72.165.60|support|support||
-191.103.114.131|admin|admin||
-201.148.116.251|admin|admin||
-118.161.46.78|user|user||
-188.248.139.53|user|user||
-36.232.93.95|user|user||
-175.224.91.80|sshd|sshd||
-191.103.115.133|uucp|uucp||
-1.172.124.80|user|user||
-36.238.67.104|support|support||
-114.44.244.144|user|user||
-125.224.127.213|user|user||
-1.163.53.86|user|user||
-114.46.79.183|user|user||
-189.51.103.189|root|admin||
-1.160.160.2|user|user||
-1.175.235.94|user|user||
-112.176.102.250|sshd|sshd||
-111.254.172.181|user|user||
-201.148.118.31|admin|admin||
-81.43.35.110|1234|1234||
-186.139.0.19|admin|admin||
-182.171.78.24|www|www||This account is currently not available.
+190.248.140.18|admin|admin|Colombia (CO)|bad command name sudo (line 1 column 1)
 
-114.47.52.60|user|user||
-1.170.20.17|user|user||
-103.35.83.132|admin|admin||
-36.227.23.70|user|user||
-111.240.90.84|user|user||
-220.141.56.16|user|user||
-134.255.174.105|admin|admin||
-97.74.196.102|ftpuser|password||
-114.45.152.251|user|user||
-114.44.192.120|user|user||
-218.164.118.126|user|user||
-188.248.142.127|user|user||
-103.206.128.200|user1|123456||
-177.20.222.5|user|user||
-114.44.8.196|user|user||
-204.106.234.125|admin|admin||
-62.99.78.120|root|root||
-188.248.180.167|root|root||
-216.208.235.212|admin|default||
-36.235.204.50|user|user||
-122.121.34.146|user|user||
-179.108.77.90|admin|admin||
-111.250.212.1|support|support||
-61.224.15.25|user|user||
-111.240.130.73|user|user||
-36.225.96.21|user|user||
-114.39.156.75|user|user||
-103.229.80.97|admin|12345||bad command name cat (line 1 column 1)
+103.229.80.97|admin|12345|Unknown (Unknown)|bad command name sudo (line 1 column 1)
 
-188.248.131.71|user|user||
-36.226.163.167|user|user||
-61.231.184.139|user|user||
-61.223.145.104|user|user||
-41.76.121.168|ubnt|ubnt||
-188.248.135.153|user|user||
-114.36.135.29|user|user||
-36.231.217.7|user|user||
-61.228.35.150|user|user||
-119.211.76.40|sshd|sshd||
-114.26.187.211|user|user||
-112.173.91.21|root|admin||
-85.203.100.11|admin|1234||
-84.244.0.172|user|user||
-118.69.9.91|root|admin||
-189.1.27.2|admin|admin||
-61.231.204.226|user|user||
-111.241.94.36|admin|admin||
-110.78.169.76|root|admin||
-114.26.89.221|user|user||
-36.226.122.158|user|user||
-36.232.20.40|user|user||
-80.23.246.102|admin|1234||
-177.238.252.242|admin|admin||
-111.240.145.235|user|user||
-1.174.80.192|user|user||
-36.230.73.222|user|user||
-201.148.118.45|admin|admin||
-111.249.190.127|user|user||
-61.227.127.134|user|user||
-1.175.27.151|admin|password||
-113.160.190.176|admin|admin||
-88.26.147.187|1234|1234||
-201.148.119.66|admin|admin||
-188.248.175.237|user|user||
-36.239.223.136|user|user||
-61.227.74.236|user|user||
-37.204.96.136|root|12345||
-188.248.150.45|user|user||
-188.68.128.76|support|support||
-114.26.77.244|user|user||
-188.248.135.152|user|user||
-122.121.95.44|user|user||
-111.242.46.154|user|user||
-188.248.166.178|sshd|sshd||
-179.99.225.78|admin|admin||
-1.165.240.111|user|user||
-103.43.4.188|user1|123456||bad command name cat (line 1 column 1)
+1.234.82.100|mysql|mysql|Korea, Republic of (KR)|This account is currently not available.
 
-201.148.117.63|admin|admin||
-79.156.111.14|1234|1234||
-114.47.2.186|user|user||
-188.248.160.210|user|user||
-119.208.182.195|sshd|sshd||
-74.198.227.8|admin|admin||
-125.230.112.199|user|user||
-188.248.155.131|user|user||
-186.139.0.83|admin|admin||
-36.238.232.195|user|user||
-186.139.0.79|root|root||
-111.249.233.135|user|user||
-111.249.175.88|user|user||
-186.226.238.79|user|user||
-114.25.12.23|support|support||
-114.39.79.178|user|user||
-218.166.86.227|support|support||
-177.75.112.23|admin|admin||bad command name cat (line 1 column 1)
+200.29.187.138|admin|default|Chile (CL)|Failed to set Terminal length
 
-175.214.91.62|admin|password||
-1.170.40.233|user|user||
-1.161.224.158|user|user||
-201.148.117.123|admin|admin||
-94.51.63.166|root|admin||
-190.104.215.17|admin|1234||
-69.57.251.197|admin|admin||
-1.165.169.96|support|support||
-183.126.72.61|sshd|sshd||
-189.89.4.74|root|root||
-118.171.137.27|user|user||
-197.217.76.73|admin|admin||
-111.240.5.250|support|support||
-1.161.97.72|user|user||
-114.46.220.218|user|user||
-85.10.48.26|admin|admin||
-188.248.174.234|user|user||
-36.225.239.245|user|user||
-1.170.74.245|user|user||
-37.20.172.204|user|user||
-188.19.17.218|root|admin||
-179.189.201.38|root|admin||
-206.214.5.8|admin|admin||
-201.148.117.33|admin|admin||
-85.203.119.108|sshd|sshd||
-1.163.162.173|user|user||
-36.224.178.245|user|user||
-203.142.186.41|admin|password||
-201.148.116.92|admin|admin||
-36.232.238.174|user|user||
-188.248.146.88|user|user||
-121.176.81.18|support|support||
-188.248.132.158|user|user||
-85.26.140.254|user|user||
+174.116.186.150|ubnt|ubnt|Canada (CA)|
+118.69.109.142|ubnt|ubnt|Vietnam (VN)|
+200.61.190.65|ftpuser|asteriskftp|Argentina (AR)|This account is currently not available.
+
+186.215.197.53|admin|admin|Brazil (BR)|GVT RCG 2110
+Command line interface
+Welcome user admin!
+
+DRIVE_SPS-301L1ANZV>sudo
+                    ^
+% Error in '^' marker
+
+DRIVE_SPS-301L1ANZV>
+
+95.167.178.45|user|user|Russian Federation (RU)|
+61.221.132.212|test|test|Taiwan (TW)|Please run the program in an appropriate mode.
+Usage: 
+  -h, --help              print out this help message
+  -a, --acquire           acquisition mode with display
+  -H, --headless          acquisition mode without display (Headless)
+  -v, --vanilli           vanilli (calibration programme)
+  -c, --calibrate         calibration mode
+  -t, --test              run in test mode
+  -i, --ipd               iPD mode
+  -M, --automap-count     Advanced users only
+  -I, --ipd-threshold     Advanced users only
+  -g, --precedence-gain   Set 6-bit (0-63) precedence gain
+  -V, --version           version information
+Cleaning up..ok.
+
+212.36.223.82|test|test123|Lebanon (LB)|
+error: unknown command: sudo
+
+64.132.45.236|admin|default|United States (US)|
+118.69.60.253|admin|password|Vietnam (VN)|
+118.200.151.182|user|user|Singapore (SG)|
+182.190.3.213|admin|admin|Pakistan (PK)|
+
+
+Exceeding Max Cli Sessions !Connection closed by foreign host
+
+203.194.109.98|support|support|India (IN)|bad command name sudo (line 1 column 1)
+
+115.248.110.253|sync|click1|India (IN)|
+122.166.237.19|apache|apache|India (IN)|This account is currently not available.
+
+119.252.174.181|cisco|cisco|Indonesia (ID)|This service allows sftp connections only.
+
+194.135.114.100|admin|default|Russian Federation (RU)|
+118.163.58.117|default|default|Taiwan (TW)|please use serical login
+
+210.211.99.203|admin|123456|Vietnam (VN)|This account is currently not available.
+
+94.231.118.53|user|user|Russian Federation (RU)|
+182.73.153.134|root|root|India (IN)|
+104.250.145.90|test|test|Unknown (Unknown)|This account is currently not available.
+
+175.143.68.54|admin|admin|Malaysia (MY)|
+103.206.128.200|user1|123456|Unknown (Unknown)|bad command name sudo (line 1 column 1)
+
+38.122.226.3|admin|default|United States (US)|
+115.94.73.3|mysql|mysql|Korea, Republic of (KR)|
+190.52.170.210|admin|1|Paraguay (PY)|bad command name sudo (line 1 column 1)
+
+103.207.10.162|support|support|Unknown (Unknown)|bad command name sudo (line 1 column 1)
+
+218.146.86.246|toor|1234|Korea, Republic of (KR)|
+61.91.180.226|root|admin|Thailand (TH)|
+103.194.91.9|user1|123456|Unknown (Unknown)|bad command name sudo (line 1 column 1)
+
+94.40.99.94|user|1234|Poland (PL)|bad command name sudo (line 1 column 1)
+
+219.65.55.82|root|root123|India (IN)|
+103.36.11.83|admin|123456|Unknown (Unknown)|bad command name sudo (line 1 column 1)
+
+91.143.38.162|ftp|ftpuser|Russian Federation (RU)|This account is currently not available.
+
+182.76.45.198|root|root|India (IN)|
+78.224.227.126|admin|password|France (FR)|
+145.255.26.238|admin|12345|Russian Federation (RU)|
+83.146.113.31|test|qwerty|Russian Federation (RU)|This account is currently not available.
+
+109.173.56.74|admin|admin|Russian Federation (RU)|bad command name sudo (line 1 column 1)
+
+182.71.134.122|root|root|India (IN)|
+123.141.38.137|tomcat|tomcat|Korea, Republic of (KR)|This account is currently not available.
+
+140.114.39.1|helpdesk|helpdesk|Taiwan (TW)|
+183.126.93.227|sshd|sshd|Korea, Republic of (KR)|
+77.39.11.244|admin|default|Russian Federation (RU)|
+88.116.246.106|thomas|thomas|Austria (AT)|
+43.254.118.2|admin|admin|Japan (JP)|usage: ca_shell [-b] [-r]
+   -b: send command in batch mode.
+   -r: command invoked from RPC.
+
+94.56.249.134|admin|admin|United Arab Emirates (AE)|
+182.75.225.82|ftp|ftp|India (IN)|
+132.255.212.191|admin|admin|Unknown (Unknown)|bad command name sudo (line 1 column 1)
+
+94.226.190.162|admin|admin|Belgium (BE)|
