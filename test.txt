@@ -1,0 +1,41 @@
+211.246.253.214|admin|admin|Korea, Republic of (KR)|Unknown|Unknown|Unknown
+94.226.190.162|admin|admin|Belgium (BE)|Antwerpen|Brasschaat|Unknown
+43.254.118.2|admin|admin|Japan (JP)|Unknown|Unknown|Unknown
+83.146.113.31|test|qwerty|Russian Federation (RU)|Unknown|Unknown|Unknown
+145.255.26.238|admin|12345|Russian Federation (RU)|Unknown|Unknown|Unknown
+94.40.99.94|user|1234|Poland (PL)|Pomorskie|Smetowo|Unknown
+123.141.38.137|tomcat|tomcat|Korea, Republic of (KR)|Unknown|Unknown|Unknown
+103.194.91.9|user1|123456|Unknown (Unknown)|Unknown|Unknown|Unknown
+211.196.252.33|toor|1234|Korea, Republic of (KR)|Unknown|Unknown|Unknown
+61.91.180.226|root|admin|Thailand (TH)|Krung Thep|Bangkok|Unknown
+103.206.128.200|user1|123456|Unknown (Unknown)|Unknown|Unknown|Unknown
+104.250.145.90|test|test|Unknown (Unknown)|Unknown|Unknown|Unknown
+210.211.99.203|admin|123456|Vietnam (VN)|Ha Noi|Hanoi|Unknown
+118.163.58.117|default|default|Taiwan (TW)|T'ai-pei|Taipei|Unknown
+178.140.30.46|admin|12345|Russian Federation (RU)|Unknown|Unknown|Unknown
+138.118.6.39|admin|admin|Unknown (Unknown)|Unknown|Unknown|Unknown
+118.200.151.182|user|user|Singapore (SG)|Unknown|Singapore|Unknown
+203.194.109.98|support|support|India (IN)|Unknown|Unknown|Unknown
+182.190.3.213|admin|admin|Pakistan (PK)|Islamabad|Islamabad|Unknown
+118.69.60.253|admin|password|Vietnam (VN)|Ha Noi|Hanoi|Unknown
+64.132.45.236|admin|default|United States (US)|North Carolina|Mooresville|28117
+212.36.223.82|test|test123|Lebanon (LB)|Unknown|Unknown|Unknown
+95.167.178.45|user|user|Russian Federation (RU)|Moscow City|Moscow|Unknown
+186.215.197.53|admin|admin|Brazil (BR)|Unknown|Unknown|Unknown
+174.116.186.150|ubnt|ubnt|Canada (CA)|Ontario|Toronto|M6H
+93.188.47.219|user|user|Russian Federation (RU)|Moscow City|Moscow|Unknown
+200.61.190.65|ftpuser|asteriskftp|Argentina (AR)|Distrito Federal|Buenos Aires|Unknown
+1.234.82.100|mysql|mysql|Korea, Republic of (KR)|Seoul-t'ukpyolsi|Seoul|Unknown
+76.76.187.223|admin|admin|Antigua and Barbuda (AG)|Unknown|Unknown|Unknown
+190.13.106.44|admin|admin|Colombia (CO)|Distrito Especial|Bogotá|Unknown
+190.248.140.18|admin|admin|Colombia (CO)|Antioquia|Medellín|Unknown
+103.229.80.97|admin|12345|Unknown (Unknown)|Unknown|Unknown|Unknown
+92.222.218.38|git|git|France (FR)|Unknown|Unknown|Unknown
+190.52.170.210|admin|1|Paraguay (PY)|Central|Fernando De La Mora|Unknown
+103.207.10.162|support|support|Unknown (Unknown)|Unknown|Unknown|Unknown
+110.77.241.78|root|admin|Thailand (TH)|Krung Thep|Bangkok|Unknown
+38.122.226.3|admin|default|United States (US)|New York|New York|Unknown
+191.103.115.74|admin|admin|Unknown (Unknown)|Unknown|Unknown|Unknown
+103.206.128.200|user1|123456|Unknown (Unknown)|Unknown|Unknown|Unknown
+110.78.169.76|root|admin|Thailand (TH)|Unknown|Unknown|Unknown
+186.139.0.83|admin|admin|Argentina (AR)|Buenos Aires|Munro|Unknown
