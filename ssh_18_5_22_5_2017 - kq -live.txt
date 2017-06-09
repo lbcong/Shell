@@ -444,7 +444,8 @@ GVT RCG 2110
 Command line interface
 Welcome user admin!
 
-DRIVE_SPS-301L1ANZV>
+
+DRIVE_SPS-301L1ANZV>
 
 188.248.189.83|user|user|Saudi Arabia (SA)|
 103.206.131.2|user1|user1|Unknown (Unknown)|bad command name cat (line 1 column 1)
