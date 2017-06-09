@@ -1,0 +1,235 @@
+60.173.37.138|uucp|uucp|China (CN)|
+60.171.155.26|uucp|uucp|China (CN)|
+59.125.238.239|admin|admin|Taiwan (TW)|
+61.177.181.109|uucp|uucp|China (CN)|
+222.207.9.223|admin|admin|China (CN)|
+
+213.150.178.134|john|john|Tunisia (TN)|
+
+1.196.198.82|admin|admin|China (CN)|
+218.29.142.242|uucp|uucp|China (CN)|
+138.197.43.1|squid|123456|United States (US)|
+
+121.28.98.12|uucp|uucp|China (CN)|
+221.4.195.238|test|test|China (CN)|
+
+221.208.28.2|uucp|uucp|China (CN)|
+218.29.138.10|uucp|uucp|China (CN)|
+58.218.154.74|uucp|uucp|China (CN)|
+111.43.1.246|user|user|China (CN)|
+
+61.136.81.234|uucp|uucp|China (CN)|
+218.22.214.142|uucp|uucp|China (CN)|
+37.71.216.149|admin|admin|France (FR)|
+223.241.100.90|uucp|uucp|China (CN)|
+218.201.14.134|uucp|uucp|China (CN)|
+218.22.135.190|uucp|uucp|China (CN)|
+218.23.88.198|uucp|uucp|China (CN)|
+60.175.210.16|uucp|uucp|China (CN)|
+121.30.251.82|uucp|uucp|China (CN)|
+220.180.149.249|uucp|uucp|China (CN)|
+219.149.30.61|uucp|uucp|China (CN)|
+222.92.142.226|uucp|uucp|China (CN)|
+120.194.172.176|admin|admin|China (CN)|
+111.125.87.107|ftpuser|asteriskftp|Philippines (PH)|
+
+222.223.204.61|admin|password|China (CN)|
+
+58.242.164.10|uucp|uucp|China (CN)|
+188.68.2.39|user|user|Russian Federation (RU)|
+
+110.4.44.36|guest|guest123|Malaysia (MY)|
+
+61.74.76.250|guest|guest|Korea, Republic of (KR)|
+220.178.121.82|uucp|uucp|China (CN)|
+111.204.191.254|uucp|uucp|China (CN)|
+110.172.189.65|user1|user1|India (IN)|
+
+218.93.148.76|uucp|uucp|China (CN)|
+222.223.204.188|admin|password|China (CN)|
+
+
+222.77.2.34|uucp|uucp|China (CN)|
+119.78.211.20|uucp|uucp|China (CN)|
+222.214.238.248|uucp|uucp|China (CN)|
+220.250.1.126|uucp|uucp|China (CN)|
+117.141.115.240|uucp|uucp|China (CN)|
+221.209.15.46|uucp|uucp|China (CN)|
+115.68.27.52|admin|admin|Korea, Republic of (KR)|
+222.92.218.37|uucp|uucp|China (CN)|
+218.108.75.251|uucp|uucp|China (CN)|
+220.178.51.130|uucp|uucp|China (CN)|
+61.167.35.222|uucp|uucp|China (CN)|
+221.233.242.156|uucp|uucp|China (CN)|
+106.248.241.122|admin|1111|Korea, Republic of (KR)|
+112.5.182.72|uucp|uucp|China (CN)|
+78.187.37.252|admin|admin|Turkey (TR)|
+
+43.254.118.126|admin|admin|Japan (JP)|
+
+218.75.61.132|uucp|uucp|China (CN)|
+202.119.160.84|admin|admin|China (CN)|
+121.174.171.153|user|user|Korea, Republic of (KR)|
+
+117.40.173.81|uucp|uucp|China (CN)|
+218.108.102.209|uucp|uucp|China (CN)|
+187.174.201.250|admin|default|Mexico (MX)|
+36.7.79.21|ftp|ftp|China (CN)|
+219.65.55.82|root|root123|India (IN)|
+
+60.172.69.66|uucp|uucp|China (CN)|
+61.180.86.32|uucp|uucp|China (CN)|
+60.170.72.97|uucp|uucp|China (CN)|
+122.228.165.86|uucp|uucp|China (CN)|
+14.48.199.119|admin|password|Korea, Republic of (KR)|
+
+110.232.255.25|user1|user1|India (IN)|
+
+220.178.82.114|uucp|uucp|China (CN)|
+218.108.39.211|uucp|uucp|China (CN)|
+220.168.146.223|uucp|uucp|China (CN)|
+186.42.188.110|admin|admin|Ecuador (EC)|
+
+222.41.213.237|uucp|uucp|China (CN)|
+222.187.123.66|admin|admin|China (CN)|
+
+113.195.226.33|uucp|uucp|China (CN)|
+61.163.229.232|uucp|uucp|China (CN)|
+60.13.181.244|uucp|uucp|China (CN)|
+220.179.61.151|uucp|uucp|China (CN)|
+60.29.36.145|uucp|uucp|China (CN)|
+101.95.16.42|uucp|uucp|China (CN)|
+112.26.89.149|uucp|uucp|China (CN)|
+222.68.19.254|uucp|uucp|China (CN)|
+220.180.83.62|uucp|uucp|China (CN)|
+58.216.239.202|uucp|uucp|China (CN)|
+220.163.120.90|uucp|uucp|China (CN)|
+124.129.27.218|admin|admin|China (CN)|
+
+
+61.172.249.250|uucp|uucp|China (CN)|
+200.61.190.65|ftpuser|asteriskftp|Argentina (AR)|
+
+61.221.132.212|test|test|Taiwan (TW)|
+
+222.80.95.72|uucp|uucp|China (CN)|
+222.161.229.55|uucp|uucp|China (CN)|
+27.17.15.26|uucp|uucp|China (CN)|
+60.167.89.68|uucp|uucp|China (CN)|
+221.224.47.250|uucp|uucp|China (CN)|
+211.63.219.53|root|admin|Korea, Republic of (KR)|
+221.226.219.148|uucp|uucp|China (CN)|
+60.174.164.45|uucp|uucp|China (CN)|
+195.229.4.242|admin|admin|United Arab Emirates (AE)|
+219.139.58.58|uucp|uucp|China (CN)|
+58.69.17.203|admin|admin|Philippines (PH)|
+
+117.40.188.89|uucp|uucp|China (CN)|
+218.25.125.162|uucp|uucp|China (CN)|
+58.56.238.46|uucp|uucp|China (CN)|
+218.94.0.22|uucp|uucp|China (CN)|
+186.46.122.254|admin|admin|Ecuador (EC)|
+
+221.176.221.70|uucp|uucp|China (CN)|
+218.22.235.138|uucp|uucp|China (CN)|
+220.166.105.202|uucp|uucp|China (CN)|
+220.163.114.226|admin|admin|China (CN)|
+
+
+103.201.140.122|user1|123456|Unknown (Unknown)|
+
+42.247.5.186|uucp|uucp|China (CN)|
+58.17.24.32|root|admin|China (CN)|
+124.160.93.172|test|test|China (CN)|
+
+14.141.98.85|sync|click1|India (IN)|
+
+60.171.157.56|uucp|uucp|China (CN)|
+221.14.150.230|uucp|uucp|China (CN)|
+5.45.65.206|test|test|Netherlands (NL)|
+58.215.13.154|uucp|uucp|China (CN)|
+182.50.245.7|admin|1234|Indonesia (ID)|
+
+112.26.80.145|uucp|uucp|China (CN)|
+120.210.68.4|admin|admin|China (CN)|  
+
+61.184.36.58|uucp|uucp|China (CN)|
+221.233.242.35|uucp|uucp|China (CN)|
+94.56.249.130|admin|admin|United Arab Emirates (AE)|
+176.124.144.185|ftpuser|asteriskftp|Russian Federation (RU)|
+
+45.40.137.234|jenkins|jenkins|Unknown (Unknown)|
+217.91.79.230|root|P@ssw0rd|Germany (DE)|
+
+187.237.56.222|admin|default|Mexico (MX)|
+61.153.54.38|uucp|uucp|China (CN)|
+182.171.78.24|www|www|Japan (JP)|
+
+140.114.39.1|helpdesk|helpdesk|Taiwan (TW)|
+123.235.16.139|uucp|uucp|China (CN)|
+123.235.16.138|uucp|uucp|China (CN)|
+103.233.4.10|uucp|uucp|Unknown (Unknown)|
+27.74.249.18|guest|guest|Vietnam (VN)|
+115.238.147.114|uucp|uucp|China (CN)|
+221.14.150.229|uucp|uucp|China (CN)|
+112.28.9.29|admin|password|China (CN)|
+
+222.234.2.84|admin|1234|Korea, Republic of (KR)|
+111.38.171.118|uucp|uucp|China (CN)|
+45.63.96.250|test|test123|Unknown (Unknown)|
+
+5.145.31.12|guest|guest|Switzerland (CH)|
+221.130.159.194|uucp|uucp|China (CN)|
+178.64.174.40|user|user|Russian Federation (RU)|
+
+211.136.172.254|uucp|uucp|China (CN)|
+218.61.76.219|uucp|uucp|China (CN)|
+220.180.50.180|uucp|uucp|China (CN)|
+114.255.98.254|uucp|uucp|China (CN)|
+5.45.64.22|test|test|Netherlands (NL)|
+223.220.168.82|uucp|uucp|China (CN)|
+222.242.107.107|admin|admin|China (CN)|
+
+94.231.118.53|user|user|Russian Federation (RU)|
+
+112.195.165.54|uucp|uucp|China (CN)|
+163.27.187.134|test|test|Taiwan (TW)|
+185.45.14.194|admin|default|Romania (RO)|
+222.189.41.46|uucp|uucp|China (CN)|
+61.163.70.50|uucp|uucp|China (CN)|
+195.209.51.10|guest|guest|Russian Federation (RU)|
+218.104.234.136|uucp|uucp|China (CN)|
+113.57.167.146|admin|admin|China (CN)|
+213.189.174.213|pi|raspberry|Belgium (BE)|
+115.248.223.113|root|root123|India (IN)|
+
+114.30.79.19|ftpuser|asteriskftp|India (IN)|
+125.72.237.2|uucp|uucp|China (CN)|
+218.22.43.187|uucp|uucp|China (CN)|
+186.215.197.55|admin|admin|Brazil (BR)|GVT RCG 2110
+222.186.68.17|uucp|uucp|China (CN)|
+218.62.32.90|uucp|uucp|China (CN)|
+103.11.96.24|ftpuser|asteriskftp|Indonesia (ID)|
+60.223.239.136|uucp|uucp|China (CN)|
+71.202.57.136|camera|camera|United States (US)|
+
+218.23.112.86|uucp|uucp|China (CN)|
+58.117.186.253|uucp|uucp|China (CN)|
+203.142.186.41|admin|password|Korea, Republic of (KR)|
+
+220.179.251.11|uucp|uucp|China (CN)|
+85.235.199.99|ftp|ftp123|Russian Federation (RU)|
+190.210.182.180|nagios|nagios|Argentina (AR)|
+140.206.96.46|ubnt|ubnt|China (CN)|
+
+60.13.191.118|uucp|uucp|China (CN)|
+218.91.97.249|uucp|uucp|China (CN)|
+122.225.124.142|uucp|uucp|China (CN)|
+222.168.81.244|admin|admin|China (CN)|
+218.65.251.23|admin|password|China (CN)|
+125.19.208.178|root|root123|India (IN)|
+14.23.76.198|uucp|uucp|China (CN)|
+67.11.189.195|admin|admin|United States (US)|
+218.61.46.168|uucp|uucp|China (CN)|
+218.23.41.46|uucp|uucp|China (CN)|
+211.142.71.170|uucp|uucp|China (CN)|
