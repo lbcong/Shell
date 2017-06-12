@@ -1,0 +1,102 @@
+103.194.91.189|user1|123456|Unknown (Unknown)|pwd: not enough permissions
+
+58.69.17.203|admin|admin|Philippines (PH)|/home/admin
+
+177.126.88.106|admin|admin|Brazil (BR)|/
+
+177.102.18.204|admin|admin|Brazil (BR)|/
+
+211.23.23.69|admin|123|Taiwan (TW)|/home/admin
+
+5.145.31.12|guest|guest|Switzerland (CH)|
+187.237.56.222|admin|default|Mexico (MX)|
+179.109.1.157|root|root|Brazil (BR)|/
+
+103.194.91.71|user1|123456|Unknown (Unknown)|pwd: not enough permissions
+
+198.46.141.102|ftpuser|test123|United States (US)|This account is currently not available.
+
+189.89.4.98|root|root|Brazil (BR)|
+92.45.54.147|root|Passw0rd|Turkey (TR)|/root
+
+121.176.97.4|admin|1234|Korea, Republic of (KR)|
+103.9.227.103|support|support|Indonesia (ID)|
+  Usage: clish_light
+
+
+182.74.172.70|root|root|India (IN)|/home
+
+103.11.96.24|ftpuser|asteriskftp|Indonesia (ID)|This account is currently not available.
+
+115.4.50.194|sshd|sshd|Korea, Republic of (KR)|/home/sshd
+
+115.114.40.105|admin|admin|India (IN)|
+94.226.190.162|admin|admin|Belgium (BE)|/home/admin
+
+118.175.31.54|admin|password|Thailand (TH)|Command [-c] not Found
+
+
+111.125.143.168|admin|1234|India (IN)|/
+
+64.138.8.139|admin|default|United States (US)|
+187.125.107.180|admin|default|Brazil (BR)|
+205.227.88.121|mark|mark|United States (US)|
+203.113.102.178|guest|guest|Thailand (TH)|This account is currently not available.
+
+61.75.30.51|admin|password|Korea, Republic of (KR)|
+182.75.191.182|root|root|India (IN)|/home
+
+59.152.104.165|support|support|Bangladesh (BD)|pwd: not enough permissions
+
+182.171.78.24|www|www|Japan (JP)|This account is currently not available.
+
+27.74.249.18|guest|guest|Vietnam (VN)|
+211.169.180.254|toor|1234|Korea, Republic of (KR)|
+118.69.109.142|ubnt|ubnt|Vietnam (VN)|/home/ubnt
+
+190.114.161.254|ftp|ftp|Argentina (AR)|pwd: not enough permissions
+
+58.120.226.83|user|password|Korea, Republic of (KR)|/fabos/users/user
+
+200.68.59.84|admin|default|Chile (CL)|
+176.150.224.132|admin|password|France (FR)|
+202.168.201.116|nagios|nagios|Taiwan (TW)|
+212.36.223.82|test|test123|Lebanon (LB)|
+error: unknown command: pwd
+
+76.0.126.21|admin|default|United States (US)|
+219.93.121.6|admin|admin|Malaysia (MY)|
+186.215.197.55|admin|admin|Brazil (BR)|GVT RCG 2110
+Command line interface
+Welcome user admin!
+
+
+AUDIOCAR_CHN-301L7A6MZ>pwd
+%Error: cannot determine current directory
+
+
+AUDIOCAR_CHN-301L7A6MZ>
+
+27.124.49.33|test|test|India (IN)|pwd: not enough permissions
+
+210.179.96.23|test|test|Korea, Republic of (KR)|
+203.250.128.240|root|admin|Korea, Republic of (KR)|
+182.74.192.57|root|root|India (IN)|/home
+
+125.19.27.222|user|1234|India (IN)|pwd: not enough permissions
+
+89.121.240.126|test|test|Romania (RO)|This account is currently not available.
+
+14.141.98.85|sync|click1|India (IN)|/export/sync
+
+80.14.213.123|pat|pat|France (FR)|/ldaphome/pat
+
+116.12.210.119|backup|backup|Singapore (SG)|/home/backup
+
+103.231.82.38|admin|admin|Unknown (Unknown)|/
+
+61.67.78.35|guest|guest|Taiwan (TW)|/
+
+177.185.158.101|root|admin|Brazil (BR)|
+222.234.2.84|admin|1234|Korea, Republic of (KR)|
+188.248.155.76|user|user|Saudi Arabia (SA)|
