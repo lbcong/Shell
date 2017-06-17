@@ -1,0 +1,85 @@
+110.143.25.14|ubnt|ubnt|AU|Austraylia
+220.240.163.120|admin|admin|AU|Austraylia
+110.142.66.143|admin|admin|AU|Austraylia
+27.0.67.132|admin|admin|AU|Austraylia
+110.142.121.154|admin|admin|AU|Austraylia
+101.187.133.43|admin|admin|AU|Austraylia
+203.213.232.197|ubnt|ubnt|AU|Austraylia
+123.2.177.74|admin|admin|AU|Austraylia
+110.232.148.22|monitor|monitor|AU|Austraylia
+120.157.127.204|admin|admin|AU|Austraylia
+60.242.92.237|support|support|AU|Austraylia
+119.17.57.114|ubnt|ubnt|AU|Austraylia
+110.175.3.159|admin|admin|AU|Austraylia
+144.139.131.178|ubnt|ubnt|AU|Austraylia
+123.100.145.36|support|support|AU|Austraylia
+139.218.144.6|admin|admin|AU|Austraylia
+120.150.179.173|admin|admin|AU|Austraylia
+110.175.55.233|admin|admin|AU|Austraylia
+122.148.119.94|admin|admin|AU|Austraylia
+203.59.180.175|admin|admin|AU|Austraylia
+203.206.188.88|ubnt|ubnt|AU|Austraylia
+110.142.199.222|admin|admin|AU|Austraylia
+58.178.10.154|admin|password|AU|Austraylia
+14.201.114.127|admin|admin|AU|Austraylia
+123.209.229.58|support|support|AU|Austraylia
+203.201.132.232|user|user|AU|Austraylia
+14.202.128.127|support|support|AU|Austraylia
+116.240.236.15|admin|admin|Austraylia|South Australia
+220.244.141.74|admin|admin|Austraylia|Western Australia
+203.57.213.173|support|support|Austraylia|Tasmania
+203.59.215.141|support|support|Austraylia|Western Australia
+58.96.73.221|admin|admin|Austraylia|Victoria
+120.157.0.68|admin|admin|Austraylia|
+121.217.124.231|guest|guest|Austraylia|New South Wales
+101.165.25.198|ubnt|ubnt|Austraylia|Queensland
+60.240.87.158|support|support|Austraylia|New South Wales
+14.200.60.117|admin|admin|Austraylia|New South Wales
+58.7.157.134|admin|admin|Austraylia|Western Australia
+123.2.254.221|admin|admin|Austraylia|Victoria
+59.100.14.238|admin|admin|Austraylia|
+115.70.35.244|ubnt|ubnt|Austraylia|New South Wales
+27.32.135.2|admin|admin|Austraylia|Victoria
+165.228.27.179|admin|admin|Austraylia|Queensland
+124.170.177.23|support|support|Austraylia|Queensland
+58.179.27.41|ubnt|ubnt|Austraylia|
+123.209.200.74|user|user|Austraylia|
+14.202.113.234|admin|admin|Austraylia|Victoria
+120.157.65.245|operator|operator|Austraylia|Victoria
+106.68.26.211|admin|admin|Austraylia|Western Australia
+124.150.93.87|admin|admin|Austraylia|Queensland
+220.233.168.231|admin|admin|Austraylia|New South Wales
+115.70.166.202|admin|admin|AU|Victoria
+14.203.217.23|support|support|AU|New South Wales
+59.100.162.235|admin|admin|Australia (AU)|
+123.254.113.100|operator|operator|Australia (AU)|
+203.49.8.139|admin|admin|Australia (AU)|
+202.153.70.239|support|support|Australia (AU)|
+203.45.224.225|admin|admin|Australia (AU)|
+101.187.6.23|support|support|Australia (AU)|
+139.216.173.21|admin|admin|Australia (AU)|
+220.244.151.102|admin|admin|Australia (AU)|
+58.162.184.180|admin|admin|Australia (AU)|
+27.32.85.159|support|support|Australia (AU)|
+116.212.207.102|support|support|Australia (AU)|
+59.100.245.26|support|support|Australia (AU)|
+120.157.71.114|operator|operator|Australia (AU)|
+110.174.41.168|admin|admin|Australia (AU)|
+123.243.4.203|admin|admin|Australia (AU)|
+203.122.218.143|admin|admin|Australia (AU)|
+60.241.132.41|admin|admin|Australia (AU)|
+122.106.233.26|support|support|Australia (AU)|
+203.41.253.69|admin|default|Australia (AU)|
+110.174.201.104|admin|password|Australia (AU)|
+60.242.19.146|admin|admin|Australia (AU)|
+203.45.197.65|admin|admin|Australia (AU)|
+118.127.98.179|support|support|Australia (AU)|
+123.2.215.25|admin|admin|AU|South Australia
+123.243.44.239|admin|admin|AU|New South Wales
+58.179.2.201|support|support|AU|New South Wales
+110.142.2.52|admin|admin|AU|Queensland
+58.162.230.6|support|support|AU|Queensland
+203.41.236.130|admin|default|AU|Victoria
+202.7.172.20|ftpuser|ftpuser|AU|New South Wales
+58.6.64.129|admin|genius|AU|Victoria
+58.6.56.71|test|test|AU|Western Australia
