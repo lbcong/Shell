@@ -1,0 +1,252 @@
+177.54.11.9|backup|backup|Brazil (BR)|syntax error (line 1 column 5)
+
+94.56.249.130|admin|admin|United Arab Emirates (AE)|
+189.123.193.126|admin|admin|Brazil (BR)|syntax error (line 1 column 5)
+
+88.87.64.43|ftp|ftp|Russian Federation (RU)|This account is currently not available.
+
+103.194.88.253|user1|123456|Unknown (Unknown)|syntax error (line 1 column 5)
+
+61.221.132.212|test|test|Taiwan (TW)|Please run the program in an appropriate mode.
+Usage: 
+  -h, --help              print out this help message
+  -a, --acquire           acquisition mode with display
+  -H, --headless          acquisition mode without display (Headless)
+  -v, --vanilli           vanilli (calibration programme)
+  -c, --calibrate         calibration mode
+  -t, --test              run in test mode
+  -i, --ipd               iPD mode
+  -M, --automap-count     Advanced users only
+  -I, --ipd-threshold     Advanced users only
+  -g, --precedence-gain   Set 6-bit (0-63) precedence gain
+  -V, --version           version information
+Cleaning up..ok.
+
+200.169.218.172|admin|admin|Brazil (BR)|syntax error (line 1 column 5)
+
+212.36.223.82|test|test123|Lebanon (LB)|
+error: unknown command: wget
+
+200.61.190.65|ftpuser|asteriskftp|Argentina (AR)|This account is currently not available.
+
+91.226.93.18|test|test|Russian Federation (RU)|
+103.234.137.250|user1|123456|Unknown (Unknown)|syntax error (line 1 column 5)
+
+220.227.147.150|admin|default|India (IN)|
+201.140.226.167|admin|admin|Unknown (Unknown)|syntax error (line 1 column 5)
+
+40.135.156.42|bob|bob|United States (US)|
+Sat Jun 17 07:40:55 CDT 2017
+
+
+Profitool revision 6.1.11 is starting up ...
+
+
+=====================================================
+<<<<<<< date-stamp
+    This is the r6v01 version of Profitool
+        Dated: Tuesday, 15th July 2008
+=======
+    This is the 6.1.11 version of Profitool
+        Dated: Tuesday, 15th July 2008
+>>>>>>> 1.1.1.1.2.11
+=====================================================
+
+115.4.50.194|sshd|sshd|Korea, Republic of (KR)|
+200.29.187.138|admin|default|Chile (CL)|Failed to set Terminal length
+
+92.39.66.182|PlcmSpIp|PlcmSpIp|Russian Federation (RU)|This account is currently not available.
+
+125.19.27.222|user|1234|India (IN)|syntax error (line 1 column 5)
+
+1.234.82.100|mysql|mysql|Korea, Republic of (KR)|This account is currently not available.
+
+110.172.188.3|user1|user1|India (IN)|syntax error (line 1 column 5)
+
+203.88.139.86|helpdesk|helpdesk|India (IN)|syntax error (line 1 column 5)
+
+88.165.97.125|pizza|pizza|France (FR)|
+14.141.98.85|sync|click1|India (IN)|
+132.255.212.191|admin|admin|Unknown (Unknown)|syntax error (line 1 column 5)
+
+89.216.30.217|ftpuser|asteriskftp|Serbia (RS)|This account is currently not available.
+
+190.248.140.18|admin|admin|Colombia (CO)|syntax error (line 1 column 5)
+
+182.190.4.68|admin|admin|Pakistan (PK)|
+
+
+Exceeding Max Cli Sessions !Connection closed by foreign host
+
+178.75.3.113|user|user|Russian Federation (RU)|
+94.226.190.162|admin|admin|Belgium (BE)|apt 0.9.7.9 for mips compiled on Oct 23 2014 16:20:31
+Usage: apt-get [options] command
+       apt-get [options] install|remove pkg1 [pkg2 ...]
+       apt-get [options] source pkg1 [pkg2 ...]
+
+apt-get is a simple command line interface for downloading and
+installing packages. The most frequently used commands are update
+and install.
+
+Commands:
+   update - Retrieve new lists of packages
+   upgrade - Perform an upgrade
+   install - Install new packages (pkg is libc6 not libc6.deb)
+   remove - Remove packages
+   autoremove - Remove automatically all unused packages
+   purge - Remove packages and config files
+   source - Download source archives
+   build-dep - Configure build-dependencies for source packages
+   dist-upgrade - Distribution upgrade, see apt-get(8)
+   dselect-upgrade - Follow dselect selections
+   clean - Erase downloaded archive files
+   autoclean - Erase old downloaded archive files
+   check - Verify that there are no broken dependencies
+   changelog - Download and display the changelog for the given package
+   download - Download the binary package into the current directory
+
+Options:
+  -h  This help text.
+  -q  Loggable output - no progress indicator
+  -qq No output except for errors
+  -d  Download only - do NOT install or unpack archives
+  -s  No-act. Perform ordering simulation
+  -y  Assume Yes to all queries and do not prompt
+  -f  Attempt to correct a system with broken dependencies in place
+  -m  Attempt to continue if archives are unlocatable
+  -u  Show a list of upgraded packages as well
+  -b  Build the source package after fetching it
+  -V  Show verbose version numbers
+  -c=? Read this configuration file
+  -o=? Set an arbitrary configuration option, eg -o dir::cache=/tmp
+See the apt-get(8), sources.list(5) and apt.conf(5) manual
+pages for more information and options.
+                       This APT has Super Cow Powers.
+
+109.75.45.78|admin|admin|Armenia (AM)|syntax error (line 1 column 5)
+
+122.53.179.137|apache|apache|Philippines (PH)|This account is currently not available.
+
+103.219.140.69|user1|123456|Unknown (Unknown)|syntax error (line 1 column 5)
+
+27.74.249.18|guest|guest|Vietnam (VN)|
+80.14.213.123|pat|pat|France (FR)|wget: URL manquante
+Usage: wget [OPTION]... [URL]...
+
+Essayez « wget --help » pour plus d'informations.
+apt 0.7.25.3ubuntu9.9 pour amd64 compilé sur Nov 22 2011 20:56:26
+Usage : apt-get [options] commandes
+        apt-get [options] install|remove pkg1 [pkg2 ...]
+        apt-get [options] source pkg1 [pkg2 ...]
+
+apt-get est une interface simple en ligne de commande servant à
+télécharger et à installer les paquets. Les commandes les plus
+fréquemment employées sont update et install.
+
+Commandes :
+  update - Récupère les nouvelles listes de paquets
+  upgrade - Réalise une mise à jour
+  install - Installe de nouveaux paquets (pkg1 est libc6 et non libc6.deb)
+  remove - Supprime des paquets
+  autoremove - Supprime tous les paquets installés automatiquement
+  purge - Supprime des paquets et leurs fichiers de configuration
+  source - Télécharge les archives de sources
+  build-dep - Configure build-dependencies pour les paquets sources
+  dist-upgrade - Met à jour la distribution, reportez-vous à apt-get(8)
+  dselect-upgrade - Suit les sélections de dselect
+  clean - Supprime dans le cache local tous les fichiers téléchargés
+  autoclean - Supprime dans le cache local les fichiers inutiles
+  check - Vérifie qu'il n'y a pas de rupture de dépendances
+
+Options :
+  -h Ce texte d'aide
+  -q Message de sortie enregistrable - aucun indicateur de progression
+  -qq Aucun message de sortie, exceptés les messages d'erreur
+  -d Simple téléchargement - n'installe pas ou ne décompacte pas les archives
+  -s N'agit pas. Réalise uniquement une simulation de commande
+  -y Répond oui à toutes les questions et n'interroge pas l'utilisateur
+  -f Tente de poursuivre si le contrôle d'intégrité échoue
+  -m Tente de poursuivre si les archives ne sont pas localisables
+  -u Affiche une liste des paquets mis à jour
+  -b Construit la source du paquet après l'avoir récupérée
+  -V Affiche les numéros des versions de façon détaillée
+  -c=? Lit ce fichier de configuration
+  -o=? Place une option de configuration arbitraire, ex. -o dir::cache=/tmp
+Reportez-vous aux pages de manuels d'apt-get(8), sources.list(5) et
+apt.conf(5) pour plus d'informations et d'option.
+                      Cet APT a les « Super Cow Powers »
+
+61.37.150.34|root|admin|Korea, Republic of (KR)|
+182.75.225.82|ftp|ftp|India (IN)|
+83.146.113.31|test|qwerty|Russian Federation (RU)|This account is currently not available.
+
+94.56.249.134|admin|admin|United Arab Emirates (AE)|
+187.210.15.121|admin|default|Mexico (MX)|
+103.194.89.54|user1|123456|Unknown (Unknown)|syntax error (line 1 column 5)
+
+202.62.86.126|test|test|India (IN)|syntax error (line 1 column 5)
+
+117.253.163.102|admin|admin|India (IN)|
+118.91.190.98|user1|user1|India (IN)|syntax error (line 1 column 5)
+
+76.73.237.34|admin|admin|United States (US)|
+118.69.60.253|admin|password|Vietnam (VN)|
+14.32.77.156|mysql|mysql|Korea, Republic of (KR)|
+114.33.249.108|admin|admin|Taiwan (TW)|
+186.194.114.14|ftp|ftp|Brazil (BR)|
+186.235.64.165|user1|user1|Brazil (BR)|syntax error (line 1 column 5)
+
+203.193.137.250|admin|admin123|India (IN)|
+error: unknown command: wget
+
+119.204.177.120|admin|root|Korea, Republic of (KR)|
+85.132.71.98|test|123456|Azerbaijan (AZ)|This account is currently not available.
+
+218.146.86.246|toor|1234|Korea, Republic of (KR)|
+115.248.110.253|sync|click1|India (IN)|
+103.229.56.102|admin|123|Unknown (Unknown)|
+182.72.100.145|root|root|India (IN)|
+121.190.23.96|admin|password|Korea, Republic of (KR)|
+182.73.13.174|root|root|India (IN)|
+186.215.197.53|admin|admin|Brazil (BR)|wget
+
+80.15.189.148|marie|marie|France (FR)|
+185.45.14.194|admin|default|Romania (RO)|
+211.54.75.17|toor|1234|Korea, Republic of (KR)|
+31.14.139.89|prueba|prueba|Romania (RO)|Expired!
+
+188.64.175.159|admin|admin|Russian Federation (RU)|
+220.130.116.125|admin|password|Taiwan (TW)|
+14.37.42.135|nobody|nobody|Korea, Republic of (KR)|
+109.72.239.210|admin|password|Russian Federation (RU)|syntax error (line 1 column 5)
+
+77.39.11.244|admin|default|Russian Federation (RU)|
+182.190.4.84|admin|admin|Pakistan (PK)|
+
+
+Exceeding Max Cli Sessions !Connection closed by foreign host
+
+74.62.209.124|record|record|United States (US)|
+62.220.58.154|user1|user1|Russian Federation (RU)|
+45.116.159.117|admin|1234|Unknown (Unknown)|syntax error (line 1 column 5)
+
+195.229.4.210|admin|admin|United Arab Emirates (AE)|
+121.140.158.2|toor|1234|Korea, Republic of (KR)|
+121.184.119.198|admin|1234|Korea, Republic of (KR)|
+122.255.115.242|ftpuser|asteriskftp|Malaysia (MY)|This account is currently not available.
+
+118.91.190.49|user1|user1|India (IN)|syntax error (line 1 column 5)
+
+1.234.11.146|test|test|Korea, Republic of (KR)|This account is currently not available.
+
+212.77.130.70|user|user|Russian Federation (RU)|
+119.252.174.181|cisco|cisco|Indonesia (ID)|This service allows sftp connections only.
+
+182.76.112.177|admin|admin|India (IN)|
+194.135.114.100|admin|default|Russian Federation (RU)|
+118.175.30.150|root|root123|Thailand (TH)|
+176.124.144.185|ftpuser|asteriskftp|Russian Federation (RU)|This account is currently not available.
+
+122.166.237.19|apache|apache|India (IN)|This account is currently not available.
+
+138.118.6.39|admin|admin|Unknown (Unknown)|
