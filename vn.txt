@@ -1,0 +1,289 @@
+118.69.9.91|root|admin|Vietnam (VN)|
+113.160.190.176|admin|admin|Vietnam (VN)|
+14.161.6.63|root|admin|Vietnam (VN)|
+202.60.106.226|test|test123|Vietnam (VN)|
+118.69.109.142|ubnt|ubnt|Vietnam (VN)|
+118.69.60.253|admin|password|Vietnam (VN)|
+27.74.249.18|guest|guest|Vietnam (VN)|
+118.70.181.50|admin|password|Vietnam (VN)|
+210.211.99.203|admin|123456|Vietnam (VN)|This account is currently not available.
+210.245.91.10|ftp|ftpuser|Vietnam (VN)|This account is currently not available.
+125.234.106.155|root|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+183.80.29.41|root|admin|Vietnam (VN)|null|null|null|FRESH: YES
+14.173.95.143|operator|operator|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.222.123|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.129.233|operator|operator|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.175.224.82|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.148.4|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.221.186|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.226.191|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.63.6|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.63.156|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.160.126|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.143.114|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.170.217.92|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.137.55|root|12345|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.72.24|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.150.176|monitor|123456|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.162.183|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.193.52|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.254.108|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.151.104|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.181.197.234|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.225.212|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.225.197|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.173.92|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.122.6|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.116.245|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.201.46|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.168.119.106|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.183.23.177|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.198.160|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.165.98|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.239.148|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.172.29|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.14.249|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.234.130|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.213.83|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.118.252|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.219.173|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.160.80|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.235.118|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+
+14.177.199.100|operator|operator|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.248.105|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.182.162|root|12345|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.216.133|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.158.189|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.209.36|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.18.17|root|12345|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.213.235|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.209.217|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.31.76|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.143.214|admin|password|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.203.196|operator|operator|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.39.200|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.174.234|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.131.130|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.190.14.87|operator|operator|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.169.187.11|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.71.36|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.202.232|operator|operator|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.236.167|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.148.96|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.180.26|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.130.252|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.176.241|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.190.13.186|operator|operator|Vietnam (VN)|34|Dung|null|FRESH: YES
+113.161.61.59|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.162.191.224|operator|operator|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.32.63|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.70.159|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.162.159.59|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.70.144|admin|123|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.89.75|admin|password|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.81.31|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.82.232|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.87.37|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.60.210|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.95.217|ftpuser|123456|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.78.13|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.94.28|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.32.80|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.162.169.146|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.58.132|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.61.201|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.162.182.108|admin|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.90.96|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.84.243|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.84.126|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.61.232|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.33.102|operator|operator|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.162.190.154|admin|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.163.197.60|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.170.90.114|admin|password|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+1.53.139.139|root|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.162.75.209|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.162.160.178|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.160.208.53|ubnt|ubnt|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.162.158.4|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.162.174.49|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.81.98|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.163.237.66|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.94.14|root|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.94.110|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.89.82|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.81.39|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.94.123|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.94.64|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.93.190|ftp|ftp|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.162.164.58|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.94.131|admin|default|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.71.192|admin|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.164.193.60|support|support|Vietnam (VN)|13|Hai Phong|null|FRESH: YES
+113.162.162.24|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.61.19|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.36.71|admin|1234|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.162.186.108|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.115.157|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.60.0|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.89.22|ubnt|ubnt|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.39.77|ftpuser|123456|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+101.99.55.34|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.83.82|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.164.193.91|admin|admin|Vietnam (VN)|13|Hai Phong|null|FRESH: YES
+113.161.57.141|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.89.45|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.89.165|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.71.60|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.172.125.129|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.102.95|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.173.109.21|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.106.146|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+117.0.34.126|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.225.39|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.99.99|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.190.146.163|support|support|Vietnam (VN)|34|Dung|null|FRESH: YES
+113.172.109.96|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+123.20.176.69|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.14.132|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.173.102.245|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.16.233.149|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.16.72.85|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.21.174.135|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.20.181.62|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.104.37|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.12.7|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.102.72|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.12.225|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.125.85|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.16.231.147|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.67.115|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+222.254.34.238|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.21.129.119|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.61.201|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.60.0|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.173.97.60|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.173.96.112|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.188.160.201|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.16.234.229|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+171.234.231.187|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+116.104.31.235|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.16.241.140|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.107.25|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.16.246.135|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.106.1|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.112.214|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.126.50|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.152.213|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.162.187.35|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.16.239.102|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.22.195.71|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.108.94|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.106.213|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.173.106.181|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.16.239.110|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.115.56|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.107.23|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.187.51.211|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+123.16.249.63|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+222.254.34.113|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.162.62.169|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.132.246|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.190.105.79|support|support|Vietnam (VN)|34|Dung|null|FRESH: YES
+113.172.121.143|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.172.116.219|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+14.177.253.43|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.81.39|operator|operator|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.88.235|admin|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.61.201|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.160.148.13|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.160.148.87|operator|operator|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.62.101|operator|operator|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.177.115.96|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.69.31|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.88.80|admin|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.62.33|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.178.78.50|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.160.1.174|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.89.13|root|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.162.163.135|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.70.88|admin|password|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.61.232|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.160.94.130|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.80.152|admin|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.48.25|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.93.190|root|12345|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.93.228|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.180.42.145|support|support|Vietnam (VN)|60|Ninh Thuan|null|FRESH: YES
+113.172.170.167|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.178.89.102|admin|default|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.87.37|pi|raspberry|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+101.99.53.242|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.184.101.132|admin|admin|Vietnam (VN)|52|Dong Nai|null|FRESH: YES
+113.176.5.78|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.164.227.10|support|support|Vietnam (VN)|13|Hai Phong|null|FRESH: YES
+113.172.168.119|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.183.51|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.173.97.214|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.78.149|operator|operator|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.81.98|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.172.185.8|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.191.55|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.178.44.53|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.172.178.150|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.178.92.183|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+101.99.55.96|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.89.52|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.176.61.70|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.173.96.136|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.94.123|monitor|123456|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.174.115.67|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.83.82|root|12345|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.82.182|root|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.89.22|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.176.7.207|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+101.99.55.144|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.39.77|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.176.7.205|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.160.186.15|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.186.214.58|admin|admin|Vietnam (VN)|87|Can Tho|null|FRESH: YES
+113.160.187.72|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.71.192|administrator|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.70.159|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.84.126|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.176.7.241|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.39.179|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.33.126|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.82.232|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.90.96|test|Time88|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.37.236|adm|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.168.221.225|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.176.7.105|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.94.131|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.173.100.173|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.94.64|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.90.84|admin|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+1.54.51.241|root|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.81.108|root|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+103.17.88.190|root|admin|Vietnam (VN)|null|null|null|FRESH: YES
+113.160.106.183|root|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.89.177|admin|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.39.0|root|12345|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.84.243|root|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.176.7.75|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.160.186.159|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+1.52.134.209|root|admin|Vietnam (VN)|null|null|null|FRESH: YES
+113.173.126.238|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.90.193|root|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.176.62.73|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+1.54.2.71|root|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+1.52.42.46|root|admin|Vietnam (VN)|null|null|null|FRESH: YES
+113.161.94.28|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.162.184.35|root|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+101.99.52.6|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.161.93.88|root|admin|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.161.95.177|support|support|Vietnam (VN)|20|Ho Chi Minh City|null|FRESH: YES
+113.177.127.250|support|support|Vietnam (VN)|44|Hanoi|null|FRESH: YES
+113.176.197.46|admin|admin|Vietnam (VN)|63|Phu Tho|null|FRESH: YES
+113.161.35.242|admin|admin|Vietnam (VN)|44|Hanoi|null|FRESH: YES
