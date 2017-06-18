@@ -1,451 +1,53 @@
-110.143.25.14|ubnt|ubnt|AU|Austraylia
-220.240.163.120|admin|admin|AU|Austraylia
-110.142.66.143|admin|admin|AU|Austraylia
-27.0.67.132|admin|admin|AU|Austraylia
-110.142.121.154|admin|admin|AU|Austraylia
-101.187.133.43|admin|admin|AU|Austraylia
-203.213.232.197|ubnt|ubnt|AU|Austraylia
-123.2.177.74|admin|admin|AU|Austraylia
-110.232.148.22|monitor|monitor|AU|Austraylia
-120.157.127.204|admin|admin|AU|Austraylia
-60.242.92.237|support|support|AU|Austraylia
-119.17.57.114|ubnt|ubnt|AU|Austraylia
-110.175.3.159|admin|admin|AU|Austraylia
-144.139.131.178|ubnt|ubnt|AU|Austraylia
-123.100.145.36|support|support|AU|Austraylia
-139.218.144.6|admin|admin|AU|Austraylia
-120.150.179.173|admin|admin|AU|Austraylia
-110.175.55.233|admin|admin|AU|Austraylia
-122.148.119.94|admin|admin|AU|Austraylia
-203.59.180.175|admin|admin|AU|Austraylia
-203.206.188.88|ubnt|ubnt|AU|Austraylia
-110.142.199.222|admin|admin|AU|Austraylia
-58.178.10.154|admin|password|AU|Austraylia
-14.201.114.127|admin|admin|AU|Austraylia
-123.209.229.58|support|support|AU|Austraylia
-203.201.132.232|user|user|AU|Austraylia
-14.202.128.127|support|support|AU|Austraylia
-116.240.236.15|admin|admin|Austraylia|South Australia
-220.244.141.74|admin|admin|Austraylia|Western Australia
-203.57.213.173|support|support|Austraylia|Tasmania
-203.59.215.141|support|support|Austraylia|Western Australia
-58.96.73.221|admin|admin|Austraylia|Victoria
-120.157.0.68|admin|admin|Austraylia|
-121.217.124.231|guest|guest|Austraylia|New South Wales
-101.165.25.198|ubnt|ubnt|Austraylia|Queensland
-60.240.87.158|support|support|Austraylia|New South Wales
-14.200.60.117|admin|admin|Austraylia|New South Wales
-58.7.157.134|admin|admin|Austraylia|Western Australia
-123.2.254.221|admin|admin|Austraylia|Victoria
-59.100.14.238|admin|admin|Austraylia|
-115.70.35.244|ubnt|ubnt|Austraylia|New South Wales
-27.32.135.2|admin|admin|Austraylia|Victoria
-165.228.27.179|admin|admin|Austraylia|Queensland
-124.170.177.23|support|support|Austraylia|Queensland
-58.179.27.41|ubnt|ubnt|Austraylia|
-123.209.200.74|user|user|Austraylia|
-14.202.113.234|admin|admin|Austraylia|Victoria
-120.157.65.245|operator|operator|Austraylia|Victoria
-106.68.26.211|admin|admin|Austraylia|Western Australia
-124.150.93.87|admin|admin|Austraylia|Queensland
-220.233.168.231|admin|admin|Austraylia|New South Wales
-115.70.166.202|admin|admin|AU|Victoria
-14.203.217.23|support|support|AU|New South Wales
-59.100.162.235|admin|admin|Australia (AU)|
-123.254.113.100|operator|operator|Australia (AU)|
-203.49.8.139|admin|admin|Australia (AU)|
-202.153.70.239|support|support|Australia (AU)|
-203.45.224.225|admin|admin|Australia (AU)|
-101.187.6.23|support|support|Australia (AU)|
-139.216.173.21|admin|admin|Australia (AU)|
-220.244.151.102|admin|admin|Australia (AU)|
-58.162.184.180|admin|admin|Australia (AU)|
-27.32.85.159|support|support|Australia (AU)|
-116.212.207.102|support|support|Australia (AU)|
-59.100.245.26|support|support|Australia (AU)|
-120.157.71.114|operator|operator|Australia (AU)|
-110.174.41.168|admin|admin|Australia (AU)|
-123.243.4.203|admin|admin|Australia (AU)|
-203.122.218.143|admin|admin|Australia (AU)|
-60.241.132.41|admin|admin|Australia (AU)|
-122.106.233.26|support|support|Australia (AU)|
-203.41.253.69|admin|default|Australia (AU)|
-110.174.201.104|admin|password|Australia (AU)|
-60.242.19.146|admin|admin|Australia (AU)|
-203.45.197.65|admin|admin|Australia (AU)|
-118.127.98.179|support|support|Australia (AU)|
-123.2.215.25|admin|admin|AU|South Australia
-123.243.44.239|admin|admin|AU|New South Wales
-58.179.2.201|support|support|AU|New South Wales
-110.142.2.52|admin|admin|AU|Queensland
-58.162.230.6|support|support|AU|Queensland
-203.41.236.130|admin|default|AU|Victoria
-202.7.172.20|ftpuser|ftpuser|AU|New South Wales
-58.6.64.129|admin|genius|AU|Victoria
-58.6.56.71|test|test|AU|Western Australia
-128.199.88.32|backup|backup|Singapore (SG)|00|Singapore|null|FRESH: YES
-118.201.223.101|root|admin|Singapore (SG)|null|null|null|FRESH: YES
-210.23.30.36|admin|password|Singapore (SG)|null|null|null|FRESH: YES
-220.255.197.1|ftp|ftp|Singapore (SG)|00|Singapore|null|FRESH: YES
-118.201.99.25|admin|admin|Singapore (SG)|null|null|null|FRESH: YES
-42.60.71.108|ubnt|ubnt|Singapore (SG)|00|Singapore|null|FRESH: YES
-119.75.7.197|admin|admin|Singapore (SG)|00|Singapore|null|FRESH: YES
-121.7.171.84|user|user|Singapore (SG)|00|Singapore|null|FRESH: YES
-14.100.6.239|user|password|Singapore (SG)|00|Singapore|null|FRESH: YES
-59.189.180.240|ubnt|ubnt|Singapore (SG)|00|Singapore|null|FRESH: YES
-103.224.165.127|ubnt|ubnt|Singapore (SG)|null|null|null|FRESH: YES
-222.164.42.107|admin|admin|Singapore (SG)|00|Singapore|null|FRESH: YES
-118.200.162.116|admin|admin|Singapore (SG)|00|Singapore|null|FRESH: YES
-183.90.91.42|backup|backup|Singapore (SG)|00|Singapore|null|FRESH: YES
-219.74.128.74|user|user|Singapore (SG)|00|Singapore|null|FRESH: YES
-203.117.78.136|user|password|Singapore (SG)|00|Singapore|null|FRESH: YES
-182.16.234.10|admin|admin|Singapore (SG)|null|null|null|FRESH: YES
-220.255.226.98|user|user|Singapore (SG)|00|Singapore|null|FRESH: YES
-58.182.133.177|admin|admin|Singapore (SG)|00|Singapore|null|FRESH: YES
-116.15.168.183|user|user|Singapore (SG)|00|Singapore|null|FRESH: YES
-59.189.52.22|root|root|Singapore (SG)|00|Yishun|null|FRESH: YES
-42.61.96.14|support|support|Singapore (SG)|00|Singapore|null|FRESH: YES
-220.255.191.190|ubnt|ubnt|Singapore (SG)|00|Singapore|null|FRESH: YES
-119.73.222.36|admin|administrator|Singapore (SG)|null|null|null|FRESH: YES
-119.74.88.169|admin|password|Singapore (SG)|00|Singapore|null|FRESH: YES
-1.162.122.240|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.78.158|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.181.98|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.162.127.182|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.144.108|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.151.250|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.140.111|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.150.65|support|support|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.203.98|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.170.49.9|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.182.37|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.170.45.38|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.132.192|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.162.123.211|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.139.165|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.121.92|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.165.173|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.169.41|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.202.164|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.205.5|support|support|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.132.13|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.119.4|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.171.158|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.168.6|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.158.232|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.146.120|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.175.154|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.168.140.177|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.157.127|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-101.108.215.97|user|user|Thailand (TH)|40|Bangkok|null|FRESH: YES
-110.78.147.218|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.147.101|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.147.96|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.147.148|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.175.42|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.137.11|admin|1234|Thailand (TH)|null|null|null|FRESH: YES
-111.240.228.228|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.195.58|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.146.232|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.175.123.49|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.142.194|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.168.125|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.175.35|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.175.29.217|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.164.65|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.74.137|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.133.78|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.199.177|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.158.185|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.163.151.89|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.131.166|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.147.32|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.175.6|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-111.240.20.179|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.207.7.14|admin|admin|China (CN)|22|Beijing|null|FRESH: YES
-111.125.143.185|admin|1234|India (IN)|10|Gurgaon|122001|FRESH: YES
-101.108.139.186|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.168.211.62|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.125.143.163|admin|1234|India (IN)|10|Gurgaon|122001|FRESH: YES
-1.161.173.224|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.159.92|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.87.87.159|support|support|China (CN)|07|Fuzhou|null|FRESH: YES
-1.161.147.105|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.208.227|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.135.135|user|user|Taiwan (TW)|04|Taoyüan|null|FRESH: YES
-1.164.129.239|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-103.36.100.33|support|support|Unknown|Unknown|Unknown|Unknown|FRESH: YES
-111.242.163.41|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.179.198|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-103.36.100.20|support|support|Unknown|Unknown|Unknown|Unknown|FRESH: YES
-111.125.143.189|admin|1234|India (IN)|10|Gurgaon|122001|FRESH: YES
-110.78.175.40|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.164.134.95|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.241.11.14|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.241.79.213|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.120.206|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.128.58|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.161.76|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.229.209|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.157.234|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.163.99.179|support|support|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.128.60|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.207.37|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.128.124|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.130.148|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.143.140|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.132.44|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.20.189|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.140.5|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.21.201|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.10.139|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.151.44|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.218.79|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.19.127|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.221.105|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.158.130|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.16.63|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.79.209|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.125.143.180|admin|1234|India (IN)|10|Gurgaon|122001|FRESH: YES
-111.240.26.197|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.24.60|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.235.101|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.150.108|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.129.221|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.146.217|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.164.129.26|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.213.43|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.222.100|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.1.174|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.240.214|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.223.151|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.127.196|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.222.105|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.131.251|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.140.155|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.0.240|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.134.191|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.130.18|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.29.155|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.121.183|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.26.59|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.211.222|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.25.75|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.94.247|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.209.53|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.233.68|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.22.220|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.129.19|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.206.110|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.19.43|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.22.194|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.3.111|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.164.185|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.171.100.232|user|user|Taiwan (TW)|null|null|null|FRESH: YES
-111.243.25.62|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.131.211|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.87.85.150|support|support|China (CN)|07|Fuzhou|null|FRESH: YES
-111.243.136.22|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.53.43|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.220.145|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.52.169|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.141.64|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.77.109|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.28.76|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.8.78|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.241.16.115|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.23.36|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.77.76|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.22.62|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.133.237|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.125.143.174|admin|1234|India (IN)|10|Gurgaon|122001|FRESH: YES
-111.243.90.62|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.23.40|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.27.146|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.125.143.176|admin|1234|India (IN)|10|Gurgaon|122001|FRESH: YES
-111.240.219.29|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.159.67|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.140.251|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.241.22.98|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.167.168.154|admin|admin|China (CN)|06|Xining|null|FRESH: YES
-111.243.93.197|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.246.128.29|user|user|Taiwan (TW)|null|null|null|FRESH: YES
-111.242.155.98|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.28.217|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.9.36|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.182.178.194|support|support|China (CN)|12|Wuhan|null|FRESH: YES
-111.246.139.130|user|user|Taiwan (TW)|null|null|null|FRESH: YES
-1.168.141.101|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.134.7|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.150.61|admin|1234|Thailand (TH)|null|null|null|FRESH: YES
-111.242.159.114|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.248.164.90|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.139.161|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.21.23|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.167.191|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.54.10|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.249.113.18|support|support|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.209.117|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.248.199.76|user|user|Taiwan (TW)|null|null|null|FRESH: YES
-111.240.235.31|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.171.34|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.246.140.252|support|support|Taiwan (TW)|null|null|null|FRESH: YES
-111.240.229.42|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.250.56.147|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.250.56.88|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.156.71|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.133.120|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.162.88.73|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.125.143.170|admin|1234|India (IN)|10|Gurgaon|122001|FRESH: YES
-111.125.137.181|admin|1234|India (IN)|null|null|null|FRESH: YES
-111.125.137.190|admin|1234|India (IN)|null|null|null|FRESH: YES
-110.80.120.36|support|support|China (CN)|07|Fuzhou|null|FRESH: YES
-1.168.211.140|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.4.39|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.7.175|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.157.125|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-111.240.28.119|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.171.111|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.171.92|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-111.249.118.111|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.126.94|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.205.144|support|support|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.130.102|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.227.102|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.240.214.113|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.248.167.37|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.182.175.250|support|support|China (CN)|12|Wuhan|null|FRESH: YES
-111.240.216.133|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.250.59.61|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.248.202.70|user|user|Taiwan (TW)|null|null|null|FRESH: YES
-1.162.126.214|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.242.204.223|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.96.200|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.128.163|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.250.61.168|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.173.53.44|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.250.66.125|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.248.183.116|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.250.60.67|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.175.82|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.172.125.98|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.246.143.24|user|user|Taiwan (TW)|null|null|null|FRESH: YES
-111.250.104.59|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.248.160.219|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.250.59.166|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.100.172|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.125.112|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.125.137.187|admin|1234|India (IN)|null|null|null|FRESH: YES
-111.240.240.215|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.241.13.49|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.173.56.77|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.243.28.97|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.168.55|admin|1234|Thailand (TH)|null|null|null|FRESH: YES
- 
-
-1.164.39.105|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.146.143|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.168.220.119|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.146.153|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.168.196.78|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.133.215|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.221.246|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.217.183|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.139.159|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.161.185.168|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.168.51|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.146.103|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.174.184.182|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.149.133|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.146.239|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-103.11.112.19|ftpuser|asteriskftp|Philippines (PH)|33|Novaliches|null|FRESH: YES
-1.161.182.52|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.144.182|support|support|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.202.246|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.102.18|guest|guest|Taiwan (TW)|03|Taipei|null|FRESH: YES
-109.248.220.98|support|support|Russian Federation (RU)|16|Cheboksary|null|FRESH: YES
-1.172.132.206|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.135.134|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-109.71.32.43|ftpuser|asteriskftp|Kazakhstan (KZ)|null|null|null|FRESH: YES
-110.78.169.147|admin|1234|Thailand (TH)|null|null|null|FRESH: YES
-110.78.171.117|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.172.234|admin|1234|Thailand (TH)|null|null|null|FRESH: YES
-110.36.0.129|ubnt|ubnt|Pakistan (PK)|null|null|null|FRESH: YES
-110.78.168.104|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.147.38|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.168.205.5|support|support|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.132.13|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.119.4|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.171.158|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.168.6|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.158.232|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.146.120|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.175.154|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.168.140.177|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.157.127|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-101.108.215.97|user|user|Thailand (TH)|40|Bangkok|null|FRESH: YES
-110.78.147.218|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.147.101|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.147.96|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.147.148|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.175.42|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.137.11|admin|1234|Thailand (TH)|null|null|null|FRESH: YES
-111.240.228.228|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.195.58|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.146.232|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.175.123.49|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.142.194|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.168.125|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.175.35|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.175.29.217|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.163.164.65|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.74.137|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.172.133.78|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.168.199.177|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.158.185|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-1.163.151.89|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-1.164.131.166|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-110.78.147.32|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-110.78.175.6|ubnt|ubnt|Thailand (TH)|null|null|null|FRESH: YES
-111.240.20.179|user|user|Taiwan (TW)|03|Taipei|null|FRESH: YES
-111.207.7.14|admin|admin|China (CN)|22|Beijing|null|FRESH: YES
-74.96.121.176|admin|default|United States (US)|null
-67.79.36.60|admin|default|United States (US)|null
-208.190.91.208|admin|default|United States (US)|null
-173.59.115.46|admin|default|United States (US)|PA
-96.4.42.172|tommy|tommy|United States (US)|TN
-209.118.77.33|admin|default|United States (US)|PA
-216.134.192.118|incoming|incoming|United States (US)|NC
-108.58.14.10|admin|default|United States (US)|NY
-66.24.103.147|scanner|scanner|United States (US)|null
-208.13.212.108|admin|default|United States (US)|null
-50.84.1.86|monitor|monitor|United States (US)|TX
-54.173.17.38|ftp|ftp123|United States (US)|NJ
-24.236.65.53|ubnt|ubnt|United States (US)|FL
-66.232.169.50|admin|password|United States (US)|IL
-173.203.88.159|reboot|reboot|United States (US)|TX
-198.46.141.98|ftpuser|test123|United States (US)|NY
-97.86.22.154|ubnt|ubnt|United States (US)|MO
-198.46.141.100|ftpuser|test123|United States (US)|NY
-96.239.35.28|admin|admin123|United States (US)|NY
-192.169.197.200|test|123456|United States (US)|AZ
-184.176.90.61|plex|plex|United States (US)|null
-108.12.189.7|ftpuser|ftpuser|United States (US)|MD
-138.197.211.3|git|git|United States (US)|DE
-54.173.148.163|security|1936b511279f450a|United States (US)|NJ
-52.8.77.48|epg|epg|United States (US)|DE
-192.249.78.58|ftpuser|ftpuser|United States (US)|CA
-108.189.77.119|admin|admin|United States (US)|null
-159.203.250.129|git|git|United States (US)|MI
-71.251.18.173|test2|test2|United States (US)|NY
-76.127.122.170|root|welc0me|United States (US)|CA
-100.4.215.114|admin|1234|United States (US)|null
-12.30.156.11|user1|user1|United States (US)|null
-74.208.174.9|joe|123456|United States (US)|PA
-96.80.242.61|monitor|monitor|United States (US)|null
-96.80.242.53|monitor|monitor|United States (US)|null
-50.246.4.189|test|123456|United States (US)|null
-52.185.155.164|testuser|123456|United States (US)|DE
-66.67.35.143|root|welc0me|United States (US)|NY
-8.19.32.149|system|system|United States (US)|null
-70.39.189.247|ftpuser|ftppass|United States (US)|CA
+8.19.32.149|system|system|United States (US)|
+52.185.155.164|testuser|123456|United States (US)|
+50.246.4.189|test|123456|United States (US)|
+74.208.174.9|joe|123456|United States (US)|
+159.203.250.129|git|git|United States (US)|
+192.249.78.58|ftpuser|ftpuser|United States (US)|
+52.8.77.48|epg|epg|United States (US)|
+54.173.148.163|security|1936b511279f450a|United States (US)|
+138.197.211.3|git|git|United States (US)|
+184.176.90.61|plex|plex|United States (US)|
+97.86.22.154|ubnt|ubnt|United States (US)|
+198.46.141.98|ftpuser|test123|United States (US)|
+173.203.88.159|reboot|reboot|United States (US)|
+24.236.65.53|ubnt|ubnt|United States (US)|
+54.173.17.38|ftp|ftp123|United States (US)|
+50.84.1.86|monitor|monitor|United States (US)|
+208.13.212.108|admin|default|United States (US)|
+66.24.103.147|scanner|scanner|United States (US)|
+216.134.192.118|incoming|incoming|United States (US)|
+209.118.77.33|admin|default|United States (US)|
+96.4.42.172|tommy|tommy|United States (US)|
+173.59.115.46|admin|default|United States (US)|
+208.190.91.208|admin|default|United States (US)|
+67.79.36.60|admin|default|United States (US)|
+74.96.121.176|admin|default|United States (US)|
+109.71.32.43|ftpuser|asteriskftp|Kazakhstan (KZ)|
+111.125.143.176|admin|1234|India (IN)|
+111.125.143.174|admin|1234|India (IN)|
+111.125.143.180|admin|1234|India (IN)|
+111.125.143.189|admin|1234|India (IN)|
+111.125.143.163|admin|1234|India (IN)|
+111.125.143.185|admin|1234|India (IN)|
+119.74.88.169|admin|password|Singapore (SG)|
+119.73.222.36|admin|administrator|Singapore (SG)|
+220.255.191.190|ubnt|ubnt|Singapore (SG)|
+42.61.96.14|support|support|Singapore (SG)|
+58.182.133.177|admin|admin|Singapore (SG)|
+220.255.226.98|user|user|Singapore (SG)|
+182.16.234.10|admin|admin|Singapore (SG)|
+203.117.78.136|user|password|Singapore (SG)|
+219.74.128.74|user|user|Singapore (SG)|
+183.90.91.42|backup|backup|Singapore (SG)|
+118.200.162.116|admin|admin|Singapore (SG)|
+103.224.165.127|ubnt|ubnt|Singapore (SG)|
+59.189.180.240|ubnt|ubnt|Singapore (SG)|
+121.7.171.84|user|user|Singapore (SG)|
+119.75.7.197|admin|admin|Singapore (SG)|
+42.60.71.108|ubnt|ubnt|Singapore (SG)|
+118.201.99.25|admin|admin|Singapore (SG)|
+220.255.197.1|ftp|ftp|Singapore (SG)|
+128.199.88.32|backup|backup|Singapore (SG)|
+203.41.236.130|admin|default|AU|
+110.143.25.14|ubnt|ubnt|AU|
