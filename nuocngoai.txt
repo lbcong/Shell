@@ -1,53 +1,39 @@
-8.19.32.149|system|system|United States (US)|
-52.185.155.164|testuser|123456|United States (US)|
-50.246.4.189|test|123456|United States (US)|
-74.208.174.9|joe|123456|United States (US)|
-159.203.250.129|git|git|United States (US)|
-192.249.78.58|ftpuser|ftpuser|United States (US)|
-52.8.77.48|epg|epg|United States (US)|
-54.173.148.163|security|1936b511279f450a|United States (US)|
-138.197.211.3|git|git|United States (US)|
-184.176.90.61|plex|plex|United States (US)|
-97.86.22.154|ubnt|ubnt|United States (US)|
-198.46.141.98|ftpuser|test123|United States (US)|
-173.203.88.159|reboot|reboot|United States (US)|
-24.236.65.53|ubnt|ubnt|United States (US)|
-54.173.17.38|ftp|ftp123|United States (US)|
-50.84.1.86|monitor|monitor|United States (US)|
-208.13.212.108|admin|default|United States (US)|
-66.24.103.147|scanner|scanner|United States (US)|
-216.134.192.118|incoming|incoming|United States (US)|
-209.118.77.33|admin|default|United States (US)|
-96.4.42.172|tommy|tommy|United States (US)|
-173.59.115.46|admin|default|United States (US)|
-208.190.91.208|admin|default|United States (US)|
-67.79.36.60|admin|default|United States (US)|
-74.96.121.176|admin|default|United States (US)|
-109.71.32.43|ftpuser|asteriskftp|Kazakhstan (KZ)|
-111.125.143.176|admin|1234|India (IN)|
-111.125.143.174|admin|1234|India (IN)|
-111.125.143.180|admin|1234|India (IN)|
-111.125.143.189|admin|1234|India (IN)|
-111.125.143.163|admin|1234|India (IN)|
-111.125.143.185|admin|1234|India (IN)|
-119.74.88.169|admin|password|Singapore (SG)|
-119.73.222.36|admin|administrator|Singapore (SG)|
-220.255.191.190|ubnt|ubnt|Singapore (SG)|
-42.61.96.14|support|support|Singapore (SG)|
-58.182.133.177|admin|admin|Singapore (SG)|
-220.255.226.98|user|user|Singapore (SG)|
-182.16.234.10|admin|admin|Singapore (SG)|
-203.117.78.136|user|password|Singapore (SG)|
-219.74.128.74|user|user|Singapore (SG)|
-183.90.91.42|backup|backup|Singapore (SG)|
-118.200.162.116|admin|admin|Singapore (SG)|
-103.224.165.127|ubnt|ubnt|Singapore (SG)|
-59.189.180.240|ubnt|ubnt|Singapore (SG)|
-121.7.171.84|user|user|Singapore (SG)|
-119.75.7.197|admin|admin|Singapore (SG)|
-42.60.71.108|ubnt|ubnt|Singapore (SG)|
-118.201.99.25|admin|admin|Singapore (SG)|
 220.255.197.1|ftp|ftp|Singapore (SG)|
-128.199.88.32|backup|backup|Singapore (SG)|
-203.41.236.130|admin|default|AU|
-110.143.25.14|ubnt|ubnt|AU|
+118.201.99.25|admin|admin|Singapore (SG)|
+42.60.71.108|ubnt|ubnt|Singapore (SG)|
+119.75.7.197|admin|admin|Singapore (SG)|
+121.7.171.84|user|user|Singapore (SG)|
+59.189.180.240|ubnt|ubnt|Singapore (SG)|
+103.224.165.127|ubnt|ubnt|Singapore (SG)|
+118.200.162.116|admin|admin|Singapore (SG)|
+183.90.91.42|backup|backup|Singapore (SG)|
+219.74.128.74|user|user|Singapore (SG)|
+182.16.234.10|admin|admin|Singapore (SG)|
+220.255.226.98|user|user|Singapore (SG)|
+58.182.133.177|admin|admin|Singapore (SG)|
+42.61.96.14|support|support|Singapore (SG)|
+220.255.191.190|ubnt|ubnt|Singapore (SG)|
+119.73.222.36|admin|administrator|Singapore (SG)|
+119.74.88.169|admin|password|Singapore (SG)|
+111.125.143.185|admin|1234|India (IN)|
+111.125.143.163|admin|1234|India (IN)|
+111.125.143.176|admin|1234|India (IN)|
+67.79.36.60|admin|default|United States (US)|
+208.190.91.208|admin|default|United States (US)|
+173.59.115.46|admin|default|United States (US)|
+96.4.42.172|tommy|tommy|United States (US)|
+209.118.77.33|admin|default|United States (US)|
+216.134.192.118|incoming|incoming|United States (US)|
+208.13.212.108|admin|default|United States (US)|
+54.173.17.38|ftp|ftp123|United States (US)|
+24.236.65.53|ubnt|ubnt|United States (US)|
+173.203.88.159|reboot|reboot|United States (US)|
+198.46.141.98|ftpuser|test123|United States (US)|
+138.197.211.3|git|git|United States (US)|
+54.173.148.163|security|1936b511279f450a|United States (US)|
+52.8.77.48|epg|epg|United States (US)|
+192.249.78.58|ftpuser|ftpuser|United States (US)|
+159.203.250.129|git|git|United States (US)|
+74.208.174.9|joe|123456|United States (US)|
+50.246.4.189|test|123456|United States (US)|
+8.19.32.149|system|system|United States (US)|
