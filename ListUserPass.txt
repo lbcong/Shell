@@ -1,0 +1,7 @@
+ubnt|ubnt
+admin|admin
+admin|password
+admin|default
+root|admin
+squid|123456
+git|git
