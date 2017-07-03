@@ -1,7 +1,9 @@
-ubnt|ubnt
+support|support
 admin|admin
+operator|operator
+ubnt|ubnt
+ftpuser|123456
 admin|password
-admin|default
+test|Time88
 root|admin
-squid|123456
-git|git
+root|12345
