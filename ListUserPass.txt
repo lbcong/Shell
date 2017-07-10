@@ -1,9 +1,0 @@
-support|support
-admin|admin
-operator|operator
-ubnt|ubnt
-ftpuser|123456
-admin|password
-test|Time88
-root|admin
-root|12345
