@@ -1,0 +1,10 @@
+admin|admin
+admin|password
+root|admin
+support|support
+operator|operator
+ubnt|ubnt
+guest|guest
+ftpuser|123456
+root|12345
+ftp|ftpuser
