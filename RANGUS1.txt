@@ -1,0 +1,4 @@
+50.190.191.0-50.208.15.255#admin|default*admin|admin*ubnt|ubnt
+50.240.4.0-50.255.85.255#admin|default*admin|admin*ubnt|ubnt
+166.129.250.0-166.131.83.255#root|root*user|user*admin|admin
+166.138.213.0-166.142.240.255#root|root*guest|guest*admin|admin
