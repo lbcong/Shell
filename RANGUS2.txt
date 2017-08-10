@@ -1,5 +1,0 @@
-166.154.26.0-166.156.204.255#root|root*guest|guest*root|synopass
-166.200.143.0-166.200.188.255#root|root*root|admin*root|12345
-71.37.114.0-71.43.189.255#admin|admin*admin|default*support|support
-166.129.250.0-166.131.83.255#root|root*user|user*admin|admin
-166.138.213.0-166.142.240.255#root|root*guest|guest*admin|admin

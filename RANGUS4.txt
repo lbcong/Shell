@@ -1,5 +1,0 @@
-98.186.128.0-98.192.20.255#admin|default*PlcmSpIp|PlcmSpIp*guest|12345
-97.77.197.0-97.79.102.255#admin|admin*admin|default*support|support
-216.158.236.0-216.159.0.255#ubnt|ubnt
-67.208.224.0-67.208.253.255#admin|admin*support|support*admin|default
-41.189.253.0-41.189.255.255#support|support*admin|admin*ubnt|ubnt
