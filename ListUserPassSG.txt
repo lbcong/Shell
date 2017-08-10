@@ -1,0 +1,11 @@
+admin|admin
+admin|password
+root|admin
+support|support
+operator|operator
+ubnt|ubnt
+admin|administrator
+user|user
+ftp|ftp
+backup|backup
+root|root
