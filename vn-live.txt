@@ -1,0 +1,304 @@
+113.160.215.146|ubnt|ubnt|Vietnam (VN)|efewf
+113.160.244.73|support|support|Vietnam (VN)|efewf
+113.161.145.177|guest|guest|Vietnam (VN)|efewf
+113.161.188.154|operator|operator|Vietnam (VN)|efewf
+113.161.188.223|operator|operator|Vietnam (VN)|efewf
+113.161.215.102|operator|operator|Vietnam (VN)|efewf
+113.162.57.107|admin|admin|Vietnam (VN)|efewf
+113.161.188.75|operator|operator|Vietnam (VN)|efewf
+113.162.149.68|operator|operator|Vietnam (VN)|efewf
+113.162.187.88|support|support|Vietnam (VN)|efewf
+113.162.236.153|support|support|Vietnam (VN)|efewf
+113.164.26.41|admin|admin|Vietnam (VN)|efewf
+113.164.231.114|admin|admin|Vietnam (VN)|efewf
+113.172.167.162|root|admin|Vietnam (VN)|efewf
+113.173.79.103|operator|operator|Vietnam (VN)|efewf
+113.173.100.13|operator|operator|Vietnam (VN)|efewf
+113.173.110.69|operator|operator|Vietnam (VN)|efewf
+113.173.37.19|operator|operator|Vietnam (VN)|efewf
+113.175.47.213|admin|admin|Vietnam (VN)|efewf
+113.175.128.143|admin|admin|Vietnam (VN)|efewf
+113.175.63.54|operator|operator|Vietnam (VN)|efewf
+113.175.238.138|ubnt|ubnt|Vietnam (VN)|efewf
+113.182.4.192|operator|operator|Vietnam (VN)|efewf
+113.182.5.119|operator|operator|Vietnam (VN)|efewf
+113.182.5.179|operator|operator|Vietnam (VN)|efewf
+113.188.56.88|admin|admin|Vietnam (VN)|efewf
+113.188.80.25|operator|operator|Vietnam (VN)|efewf
+113.188.82.238|operator|operator|Vietnam (VN)|efewf
+113.188.80.73|operator|operator|Vietnam (VN)|efewf
+113.188.81.75|operator|operator|Vietnam (VN)|efewf
+113.188.81.104|operator|operator|Vietnam (VN)|efewf
+113.188.80.87|operator|operator|Vietnam (VN)|efewf
+113.190.19.84|admin|admin|Vietnam (VN)|efewf
+113.190.22.220|admin|admin|Vietnam (VN)|efewf
+113.190.99.48|admin|admin|Vietnam (VN)|efewf
+113.190.123.82|support|support|Vietnam (VN)|efewf
+14.161.67.68|admin|admin|Vietnam (VN)|efewf
+14.161.21.155|operator|operator|Vietnam (VN)|efewf
+14.161.131.193|admin|admin|Vietnam (VN)|efewf
+14.169.12.249|admin|admin|Vietnam (VN)|efewf
+14.169.51.104|support|support|Vietnam (VN)|efewf
+14.169.2.29|operator|operator|Vietnam (VN)|efewf
+14.169.57.63|operator|operator|Vietnam (VN)|efewf
+14.169.62.192|operator|operator|Vietnam (VN)|efewf
+14.169.129.226|operator|operator|Vietnam (VN)|efewf
+14.169.159.157|operator|operator|Vietnam (VN)|efewf
+14.170.8.103|admin|admin|Vietnam (VN)|efewf
+113.160.59.246|support|support|Vietnam (VN)|Scan by ThachSanh8
+113.160.171.93|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.160.250.206|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.161.194.237|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.162.57.21|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.164.223.221|support|support|Vietnam (VN)|Scan by ThachSanh8
+113.172.123.241|root|12345|Vietnam (VN)|Scan by ThachSanh8
+113.173.74.98|admin|password|Vietnam (VN)|Scan by ThachSanh8
+113.174.84.125|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.174.47.27|support|support|Vietnam (VN)|Scan by ThachSanh8
+113.175.189.170|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.189.98.83|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.189.226.133|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.190.11.19|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.190.69.33|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.161.12.230|root|admin|Vietnam (VN)|Scan by ThachSanh8
+14.169.8.118|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.169.9.228|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.169.47.126|root|12345|Vietnam (VN)|Scan by ThachSanh8
+14.169.62.166|support|support|Vietnam (VN)|Scan by ThachSanh8
+14.169.101.125|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.170.44.165|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.170.148.247|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.173.187.51|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.177.47.219|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.177.69.4|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.177.68.40|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+14.177.134.39|root|admin|Vietnam (VN)|Scan by ThachSanh8
+14.177.194.117|support|support|Vietnam (VN)|Scan by ThachSanh8
+14.177.253.48|support|support|Vietnam (VN)|Scan by ThachSanh8
+118.69.8.252|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.8.49|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.111|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.9|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.94|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.17|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.220|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.10.118|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.10.147|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.11.199|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.8.174|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.80|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.175|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.8.58|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.10.159|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.157|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.113|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.124|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.169|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.193|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.47|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.46|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.7|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.173|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.11.177|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.8.53|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.195|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.9.51|root|admin|Vietnam (VN)|Scan by ThachSanh8
+118.69.113.55|admin|admin|Vietnam (VN)|Scan by ThachSanh8
+113.176.3.94|support|support|null|null
+113.176.7.189|support|support|null|null
+113.176.7.252|support|support|null|null
+113.176.7.241|support|support|null|null
+113.176.7.205|support|support|null|null
+113.190.1.171|admin|admin|null|null
+113.176.7.182|support|support|null|null
+113.176.61.70|support|support|null|null
+113.190.16.6|admin|admin|null|null
+113.190.22.163|admin|admin|null|null
+113.190.42.153|support|support|null|null
+113.190.58.134|support|support|null|null
+113.176.7.248|support|support|null|null
+113.190.89.73|support|support|null|null
+113.190.64.192|support|support|null|null
+113.190.102.32|support|support|null|null
+113.190.88.222|support|support|null|null
+113.190.132.49|support|support|null|null
+113.190.115.64|support|support|null|null
+113.190.145.88|support|support|null|null
+113.190.148.121|support|support|null|null
+113.190.154.25|support|support|null|null
+113.190.160.158|support|support|null|null
+113.190.151.25|support|support|null|null
+14.161.70.17|support|support|null|null
+14.161.76.142|support|support|null|null
+14.161.77.205|admin|admin|null|null
+14.169.81.11|support|support|null|null
+14.169.82.78|support|support|null|null
+14.169.159.35|support|support|null|null
+14.169.168.52|support|support|null|null
+14.169.169.44|support|support|null|null
+14.169.226.235|support|support|null|null
+14.169.208.179|support|support|null|null
+14.169.240.196|support|support|null|null
+14.177.46.43|admin|admin|null|null
+14.177.120.83|support|support|null|null
+14.177.116.254|support|support|null|null
+14.177.66.30|support|support|null|null
+14.177.128.149|support|support|null|null
+14.177.145.109|support|support|null|null
+14.177.137.155|support|support|null|null
+14.177.163.67|support|support|null|null
+14.177.151.172|support|support|null|null
+14.177.166.13|support|support|null|null
+14.177.194.238|support|support|null|null
+118.69.9.10|root|admin|null|null
+118.69.9.73|root|admin|null|null
+118.69.9.237|root|admin|null|null
+118.69.9.227|root|admin|null|null
+118.69.70.18|admin|admin|null|null
+14.177.249.235|support|support|null|null
+14.177.213.252|support|support|null|null
+101.99.55.34|support|support|null|null
+222.254.34.47|support|support|null|null
+222.254.34.198|support|support|null|null
+222.254.34.94|support|support|null|null
+113.161.94.131|support|support|null|null
+113.164.227.10|support|support|null|null
+113.172.62.93|support|support|null|null
+113.172.97.0|support|support|null|null
+113.172.120.93|support|support|null|null
+113.173.119.118|support|support|null|null
+113.173.127.190|support|support|null|null
+113.174.136.204|support|support|null|null
+113.174.139.27|support|support|null|null
+113.174.140.225|support|support|null|null
+118.69.109.142|ubnt|ubnt|null|null
+113.174.71.89|support|support|null|null
+101.99.52.6|support|support|null|null
+113.176.62.73|admin|admin|null|null
+222.254.34.113|support|support|null|null
+210.211.99.203|admin|123456|null|null
+14.177.143.214|admin|password|null|null
+14.161.6.63|root|admin|null|null
+101.99.53.242|support|support|null|null
+14.161.2.191|admin|admin|null|null
+14.161.3.44|admin|admin|null|null
+101.99.55.96|support|support|null|null
+14.161.16.200|admin|admin|null|null
+14.161.17.54|admin|admin|null|null
+14.161.19.190|admin|admin|null|null
+14.161.19.168|admin|admin|null|null
+14.161.19.128|admin|admin|null|null
+14.161.19.216|admin|admin|null|null
+14.161.8.97|admin|admin|null|null
+14.161.20.114|admin|admin|null|null
+14.161.20.130|admin|admin|null|null
+222.254.34.238|support|support|null|null
+14.161.20.149|admin|admin|null|null
+14.161.20.205|admin|admin|null|null
+14.161.19.151|admin|admin|null|null
+14.161.22.26|admin|admin|null|null
+14.161.21.220|admin|admin|null|null
+14.161.23.65|admin|admin|null|null
+14.161.23.133|admin|admin|null|null
+14.161.25.189|admin|admin|null|null
+14.161.31.3|admin|admin|null|null
+14.161.31.5|admin|admin|null|null
+14.161.38.156|admin|admin|null|null
+14.161.42.53|admin|admin|null|null
+14.161.19.226|admin|admin|null|null
+14.161.42.137|admin|admin|null|null
+101.99.55.144|support|support|null|null
+14.161.42.242|admin|admin|null|null
+14.161.43.107|admin|admin|null|null
+14.161.43.68|admin|admin|null|null
+14.161.43.185|admin|admin|null|null
+14.161.43.242|admin|admin|null|null
+14.161.28.149|admin|admin|null|null
+14.161.44.232|admin|admin|null|null
+14.161.45.76|admin|admin|null|null
+14.161.45.206|admin|admin|null|null
+14.161.47.124|admin|admin|null|null
+14.161.47.111|admin|admin|null|null
+14.161.26.40|admin|admin|null|null
+14.161.47.200|admin|admin|null|null
+14.161.27.160|admin|admin|null|null
+14.161.3.213|admin|admin|null|null
+14.161.45.77|admin|admin|null|null
+14.161.9.26|root|12345|null|null
+14.161.47.44|admin|admin|null|null
+14.177.196.146|admin|password|null|null
+14.161.17.66|admin|admin|null|null
+14.177.204.125|admin|admin|null|null
+14.177.181.102|admin|admin|null|null
+14.177.182.162|admin|admin|null|null
+14.161.47.117|admin|admin|null|null
+14.177.200.205|admin|admin|null|null
+14.177.200.149|admin|password|null|null
+14.177.215.146|admin|admin|null|null
+14.177.234.74|admin|admin|null|null
+14.177.234.253|admin|admin|null|null
+14.177.235.141|admin|admin|null|null
+14.177.235.168|admin|admin|null|null
+14.177.235.159|admin|admin|null|null
+14.177.225.107|admin|admin|null|null
+113.160.204.10|admin|admin|null|null
+14.177.249.193|admin|admin|null|null
+113.160.208.53|ubnt|ubnt|null|null
+14.177.255.168|admin|admin|null|null
+14.177.255.31|admin|admin|null|null
+14.177.234.139|admin|admin|null|null
+14.177.234.247|admin|admin|null|null
+113.188.199.164|admin|admin|null|null
+14.177.236.196|admin|admin|null|null
+14.177.236.167|admin|admin|null|null
+113.161.32.25|admin|password|null|null
+113.161.35.104|admin|admin|null|null
+113.161.75.113|admin|admin|null|null
+113.161.37.236|admin|admin|null|null
+113.161.39.77|admin|admin|null|null
+113.161.48.25|admin|admin|null|null
+113.161.79.87|admin|admin|null|null
+113.161.49.237|admin|admin|null|null
+14.177.252.195|admin|admin|null|null
+113.161.57.141|admin|admin|null|null
+113.161.58.98|admin|admin|null|null
+113.161.60.0|admin|admin|null|null
+113.161.61.19|admin|admin|null|null
+113.160.145.134|admin|admin|null|null
+113.161.60.210|admin|password|null|null
+113.160.186.159|admin|admin|null|null
+113.161.62.97|admin|admin|null|null
+113.160.187.72|admin|admin|null|null
+113.161.70.159|admin|admin|null|null
+113.161.33.126|admin|admin|null|null
+113.161.33.102|admin|admin|null|null
+113.161.37.126|admin|admin|null|null
+113.161.77.45|admin|admin|null|null
+113.161.48.54|admin|admin|null|null
+113.161.80.83|admin|admin|null|null
+113.161.49.13|admin|admin|null|null
+113.161.81.94|admin|admin|null|null
+113.161.81.98|admin|password|null|null
+113.161.73.246|ubnt|ubnt|null|null
+113.161.83.82|admin|admin|null|null
+113.161.60.128|admin|admin|null|null
+113.161.84.126|admin|admin|null|null
+113.161.62.101|admin|admin|null|null
+113.161.61.232|admin|password|null|null
+113.161.69.31|admin|admin|null|null
+113.161.89.22|admin|admin|null|null
+113.161.70.109|admin|password|null|null
+113.161.89.140|admin|admin|null|null
+113.161.94.14|admin|admin|null|null
+113.161.60.135|admin|admin|null|null
+113.161.80.152|admin|admin|null|null
+113.161.82.182|admin|admin|null|null
+113.161.84.62|admin|admin|null|null
+113.161.89.54|admin|admin|null|null
+113.161.89.177|admin|admin|null|null
+113.161.89.75|admin|admin|null|null
+113.161.90.84|root|admin|null|null
+113.161.93.190|admin|admin|null|null
+113.161.94.28|admin|admin|null|null
+113.161.90.96|admin|admin|null|null
+113.161.89.45|admin|admin|null|null
