@@ -1,0 +1,9 @@
+113.160.89.0-113.164.245.255#support|support*admin|admin*operator|operator
+113.172.42.0-113.176.79.255#support|support*admin|admin*operator|operator
+113.188.12.0-113.190.164.255#support|support*admin|admin*operator|operator
+14.160.228.0-14.161.121.255#admin|admin*support|support*root|admin
+14.168.243.0-14.170.157.255#support|support*admin|admin*operator|operator
+14.177.21.0-14.178.33.255#support|support*admin|admin*admin|password
+118.69.2.0-118.69.36.255#root|admin*admin|admin*support|support
+118.69.45.0-118.69.116.255#support|support*admin|admin*ubnt|ubnt
+222.254.27.0-222.254.38.255#support|support*admin|admin
